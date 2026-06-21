@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+      <name>Mangmibong Course</name></metadata>
+  <trk>
+    <name>Mangmibong Course (1/4)</name>
+    <trkseg>
+      <trkpt lat="35.23011" lon="129.056671">
+          <ele>502.0</ele></trkpt>
+      <trkpt lat="35.229799" lon="129.056334">
+          <ele>513.0</ele></trkpt>
+      <trkpt lat="35.229707" lon="129.056117">
+          <ele>512.0</ele></trkpt>
+      <trkpt lat="35.229812" lon="129.055979">
+          <ele>521.0</ele></trkpt>
+      <trkpt lat="35.229823" lon="129.055767">
+          <ele>530.0</ele></trkpt>
+      <trkpt lat="35.229736" lon="129.055556">
+          <ele>537.0</ele></trkpt>
+      <trkpt lat="35.229801" lon="129.055253">
+          <ele>542.0</ele></trkpt>
+      <trkpt lat="35.229636" lon="129.05499">
+          <ele>548.0</ele></trkpt>
+      <trkpt lat="35.229652" lon="129.054678">
+          <ele>567.0</ele></trkpt>
+      <trkpt lat="35.229743" lon="129.054487">
+          <ele>575.0</ele></trkpt>
+      <trkpt lat="35.229699" lon="129.054385">
+          <ele>577.0</ele></trkpt>
+      <trkpt lat="35.229798" lon="129.054166">
+          <ele>574.0</ele></trkpt>
+      <trkpt lat="35.229598" lon="129.05359">
+          <ele>569.0</ele></trkpt>
+      <trkpt lat="35.229645" lon="129.053521">
+          <ele>567.0</ele></trkpt>
+      <trkpt lat="35.229531" lon="129.053345">
+          <ele>563.0</ele></trkpt>
+      <trkpt lat="35.229591" lon="129.052498">
+          <ele>537.0</ele></trkpt>
+      <trkpt lat="35.229636" lon="129.052276">
+          <ele>531.0</ele></trkpt>
+      <trkpt lat="35.229955" lon="129.05204">
+          <ele>522.0</ele></trkpt>
+      <trkpt lat="35.230166" lon="129.052013">
+          <ele>520.0</ele></trkpt>
+      <trkpt lat="35.23036" lon="129.05216">
+          <ele>518.0</ele></trkpt>
+      <trkpt lat="35.230534" lon="129.052018">
+          <ele>522.0</ele></trkpt>
+      <trkpt lat="35.230851" lon="129.052014">
+          <ele>522.0</ele></trkpt>
+      <trkpt lat="35.231305" lon="129.052208">
+          <ele>510.0</ele></trkpt>
+      <trkpt lat="35.231681" lon="129.052554">
+          <ele>498.0</ele></trkpt>
+      <trkpt lat="35.231719" lon="129.052926">
+          <ele>502.0</ele></trkpt>
+      <trkpt lat="35.232028" lon="129.053587">
+          <ele>498.0</ele></trkpt>
+      <trkpt lat="35.232007" lon="129.05423">
+          <ele>497.0</ele></trkpt>
+      <trkpt lat="35.231901" lon="129.054694">
+          <ele>497.0</ele></trkpt>
+      <trkpt lat="35.231692" lon="129.055088">
+          <ele>504.0</ele></trkpt>
+      <trkpt lat="35.231607" lon="129.055576">
+          <ele>502.0</ele></trkpt>
+      <trkpt lat="35.231241" lon="129.056003">
+          <ele>500.0</ele></trkpt>
+      <trkpt lat="35.230681" lon="129.056233">
+          <ele>501.0</ele></trkpt>
+      <trkpt lat="35.230199" lon="129.056694">
+          <ele>501.0</ele></trkpt>
+      <trkpt lat="35.23011" lon="129.056671">
+          <ele>502.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Mangmibong Course (2/4)</name>
+    <trkseg>
+      <trkpt lat="35.23088" lon="129.059317">
+          <ele>518.0</ele></trkpt>
+      <trkpt lat="35.230408" lon="129.059392">
+          <ele>529.0</ele></trkpt>
+      <trkpt lat="35.230304" lon="129.059547">
+          <ele>532.0</ele></trkpt>
+      <trkpt lat="35.230394" lon="129.059782">
+          <ele>530.0</ele></trkpt>
+      <trkpt lat="35.230327" lon="129.059999">
+          <ele>528.0</ele></trkpt>
+      <trkpt lat="35.230049" lon="129.059671">
+          <ele>534.0</ele></trkpt>
+      <trkpt lat="35.229951" lon="129.059725">
+          <ele>533.0</ele></trkpt>
+      <trkpt lat="35.229578" lon="129.059511">
+          <ele>529.0</ele></trkpt>
+      <trkpt lat="35.229537" lon="129.059386">
+          <ele>529.0</ele></trkpt>
+      <trkpt lat="35.229673" lon="129.058863">
+          <ele>529.0</ele></trkpt>
+      <trkpt lat="35.230068" lon="129.058342">
+          <ele>517.0</ele></trkpt>
+      <trkpt lat="35.230144" lon="129.058113">
+          <ele>514.0</ele></trkpt>
+      <trkpt lat="35.230003" lon="129.057805">
+          <ele>514.0</ele></trkpt>
+      <trkpt lat="35.229568" lon="129.057493">
+          <ele>507.0</ele></trkpt>
+      <trkpt lat="35.229481" lon="129.057257">
+          <ele>511.0</ele></trkpt>
+      <trkpt lat="35.23011" lon="129.056671">
+          <ele>502.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Mangmibong Course (3/4)</name>
+    <trkseg>
+      <trkpt lat="35.23088" lon="129.059317">
+          <ele>518.0</ele></trkpt>
+      <trkpt lat="35.230952" lon="129.059228">
+          <ele>519.0</ele></trkpt>
+      <trkpt lat="35.231245" lon="129.059208">
+          <ele>519.0</ele></trkpt>
+      <trkpt lat="35.231271" lon="129.059101">
+          <ele>517.0</ele></trkpt>
+      <trkpt lat="35.230912" lon="129.058422">
+          <ele>512.0</ele></trkpt>
+      <trkpt lat="35.230836" lon="129.05817">
+          <ele>510.0</ele></trkpt>
+      <trkpt lat="35.23087" lon="129.058048">
+          <ele>510.0</ele></trkpt>
+      <trkpt lat="35.231062" lon="129.057987">
+          <ele>512.0</ele></trkpt>
+      <trkpt lat="35.23148" lon="129.058252">
+          <ele>510.0</ele></trkpt>
+      <trkpt lat="35.231994" lon="129.058234">
+          <ele>498.0</ele></trkpt>
+      <trkpt lat="35.232357" lon="129.058485">
+          <ele>490.0</ele></trkpt>
+      <trkpt lat="35.232661" lon="129.058498">
+          <ele>486.0</ele></trkpt>
+      <trkpt lat="35.23309" lon="129.058224">
+          <ele>480.0</ele></trkpt>
+      <trkpt lat="35.233414" lon="129.057937">
+          <ele>465.0</ele></trkpt>
+      <trkpt lat="35.233428" lon="129.057819">
+          <ele>463.0</ele></trkpt>
+      <trkpt lat="35.233189" lon="129.057397">
+          <ele>473.0</ele></trkpt>
+      <trkpt lat="35.232922" lon="129.057139">
+          <ele>477.0</ele></trkpt>
+      <trkpt lat="35.232846" lon="129.056903">
+          <ele>474.0</ele></trkpt>
+      <trkpt lat="35.233598" lon="129.057077">
+          <ele>465.0</ele></trkpt>
+      <trkpt lat="35.233902" lon="129.057047">
+          <ele>460.0</ele></trkpt>
+      <trkpt lat="35.235012" lon="129.05807">
+          <ele>437.0</ele></trkpt>
+      <trkpt lat="35.235826" lon="129.058191">
+          <ele>439.0</ele></trkpt>
+      <trkpt lat="35.236449" lon="129.058419">
+          <ele>442.0</ele></trkpt>
+      <trkpt lat="35.236863" lon="129.058775">
+          <ele>442.0</ele></trkpt>
+      <trkpt lat="35.237202" lon="129.058828">
+          <ele>435.0</ele></trkpt>
+      <trkpt lat="35.237658" lon="129.059096">
+          <ele>436.0</ele></trkpt>
+      <trkpt lat="35.237948" lon="129.059159">
+          <ele>431.0</ele></trkpt>
+      <trkpt lat="35.238579" lon="129.058822">
+          <ele>419.0</ele></trkpt>
+      <trkpt lat="35.238788" lon="129.058967">
+          <ele>417.0</ele></trkpt>
+      <trkpt lat="35.238851" lon="129.059154">
+          <ele>416.0</ele></trkpt>
+      <trkpt lat="35.239146" lon="129.059517">
+          <ele>413.0</ele></trkpt>
+      <trkpt lat="35.24016" lon="129.059367">
+          <ele>404.0</ele></trkpt>
+      <trkpt lat="35.240257" lon="129.05943">
+          <ele>402.0</ele></trkpt>
+      <trkpt lat="35.240439" lon="129.059903">
+          <ele>400.0</ele></trkpt>
+      <trkpt lat="35.240621" lon="129.060113">
+          <ele>396.0</ele></trkpt>
+      <trkpt lat="35.241215" lon="129.060275">
+          <ele>387.0</ele></trkpt>
+      <trkpt lat="35.24148" lon="129.060535">
+          <ele>384.0</ele></trkpt>
+      <trkpt lat="35.241613" lon="129.060825">
+          <ele>387.0</ele></trkpt>
+      <trkpt lat="35.241765" lon="129.061972">
+          <ele>387.0</ele></trkpt>
+      <trkpt lat="35.241996" lon="129.062352">
+          <ele>385.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Mangmibong Course (4/4)</name>
+    <trkseg>
+      <trkpt lat="35.241691" lon="129.061704">
+          <ele>390.0</ele></trkpt>
+      <trkpt lat="35.241404" lon="129.061707">
+          <ele>398.0</ele></trkpt>
+      <trkpt lat="35.241285" lon="129.061549">
+          <ele>401.0</ele></trkpt>
+      <trkpt lat="35.241116" lon="129.061497">
+          <ele>403.0</ele></trkpt>
+      <trkpt lat="35.240973" lon="129.061235">
+          <ele>406.0</ele></trkpt>
+      <trkpt lat="35.240506" lon="129.0611">
+          <ele>422.0</ele></trkpt>
+      <trkpt lat="35.239552" lon="129.061764">
+          <ele>437.0</ele></trkpt>
+      <trkpt lat="35.239192" lon="129.061744">
+          <ele>461.0</ele></trkpt>
+      <trkpt lat="35.239035" lon="129.062024">
+          <ele>473.0</ele></trkpt>
+      <trkpt lat="35.238852" lon="129.062137">
+          <ele>476.0</ele></trkpt>
+      <trkpt lat="35.238396" lon="129.062157">
+          <ele>481.0</ele></trkpt>
+      <trkpt lat="35.238243" lon="129.062058">
+          <ele>488.0</ele></trkpt>
+      <trkpt lat="35.238156" lon="129.061855">
+          <ele>495.0</ele></trkpt>
+      <trkpt lat="35.23788" lon="129.061811">
+          <ele>499.0</ele></trkpt>
+      <trkpt lat="35.237742" lon="129.061666">
+          <ele>501.0</ele></trkpt>
+      <trkpt lat="35.237282" lon="129.061641">
+          <ele>488.0</ele></trkpt>
+      <trkpt lat="35.237221" lon="129.061729">
+          <ele>480.0</ele></trkpt>
+      <trkpt lat="35.237005" lon="129.061501">
+          <ele>488.0</ele></trkpt>
+      <trkpt lat="35.23661" lon="129.061493">
+          <ele>485.0</ele></trkpt>
+      <trkpt lat="35.236439" lon="129.061182">
+          <ele>488.0</ele></trkpt>
+      <trkpt lat="35.235638" lon="129.060778">
+          <ele>492.0</ele></trkpt>
+      <trkpt lat="35.2353" lon="129.060339">
+          <ele>494.0</ele></trkpt>
+      <trkpt lat="35.234856" lon="129.06007">
+          <ele>496.0</ele></trkpt>
+      <trkpt lat="35.234513" lon="129.06003">
+          <ele>488.0</ele></trkpt>
+      <trkpt lat="35.234292" lon="129.059788">
+          <ele>490.0</ele></trkpt>
+      <trkpt lat="35.234091" lon="129.059809">
+          <ele>490.0</ele></trkpt>
+      <trkpt lat="35.233801" lon="129.059688">
+          <ele>490.0</ele></trkpt>
+      <trkpt lat="35.233508" lon="129.059362">
+          <ele>489.0</ele></trkpt>
+      <trkpt lat="35.23317" lon="129.059275">
+          <ele>479.0</ele></trkpt>
+      <trkpt lat="35.232484" lon="129.059339">
+          <ele>479.0</ele></trkpt>
+      <trkpt lat="35.232055" lon="129.059573">
+          <ele>492.0</ele></trkpt>
+      <trkpt lat="35.231698" lon="129.059528">
+          <ele>506.0</ele></trkpt>
+      <trkpt lat="35.231636" lon="129.05963">
+          <ele>508.0</ele></trkpt>
+      <trkpt lat="35.23146" lon="129.059677">
+          <ele>514.0</ele></trkpt>
+      <trkpt lat="35.231299" lon="129.059515">
+          <ele>518.0</ele></trkpt>
+      <trkpt lat="35.23088" lon="129.059317">
+          <ele>518.0</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

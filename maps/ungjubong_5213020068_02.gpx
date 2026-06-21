@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+      <name>Ungjubong Course</name></metadata>
+  <trk>
+    <name>Ungjubong Course</name>
+    <trkseg>
+      <trkpt lat="35.052574" lon="128.830883">
+          <ele>10.0</ele></trkpt>
+      <trkpt lat="35.052509" lon="128.830675">
+          <ele>11.0</ele></trkpt>
+      <trkpt lat="35.051719" lon="128.830827">
+          <ele>13.0</ele></trkpt>
+      <trkpt lat="35.051293" lon="128.830748">
+          <ele>12.0</ele></trkpt>
+      <trkpt lat="35.051228" lon="128.830663">
+          <ele>13.0</ele></trkpt>
+      <trkpt lat="35.050321" lon="128.830547">
+          <ele>11.0</ele></trkpt>
+      <trkpt lat="35.04952" lon="128.830717">
+          <ele>13.0</ele></trkpt>
+      <trkpt lat="35.04919" lon="128.830924">
+          <ele>13.0</ele></trkpt>
+      <trkpt lat="35.048256" lon="128.831149">
+          <ele>19.0</ele></trkpt>
+      <trkpt lat="35.048064" lon="128.831133">
+          <ele>21.0</ele></trkpt>
+      <trkpt lat="35.047575" lon="128.830887">
+          <ele>21.0</ele></trkpt>
+      <trkpt lat="35.04615" lon="128.831228">
+          <ele>18.0</ele></trkpt>
+      <trkpt lat="35.045378" lon="128.83099">
+          <ele>42.0</ele></trkpt>
+      <trkpt lat="35.044859" lon="128.8305">
+          <ele>58.0</ele></trkpt>
+      <trkpt lat="35.043908" lon="128.830254">
+          <ele>62.0</ele></trkpt>
+      <trkpt lat="35.043473" lon="128.829914">
+          <ele>75.0</ele></trkpt>
+      <trkpt lat="35.04298" lon="128.83002">
+          <ele>77.0</ele></trkpt>
+      <trkpt lat="35.042778" lon="128.829975">
+          <ele>82.0</ele></trkpt>
+      <trkpt lat="35.042043" lon="128.829628">
+          <ele>100.0</ele></trkpt>
+      <trkpt lat="35.041816" lon="128.829427">
+          <ele>106.0</ele></trkpt>
+      <trkpt lat="35.041069" lon="128.829226">
+          <ele>117.0</ele></trkpt>
+      <trkpt lat="35.040784" lon="128.829213">
+          <ele>127.0</ele></trkpt>
+      <trkpt lat="35.040669" lon="128.829581">
+          <ele>126.0</ele></trkpt>
+      <trkpt lat="35.040576" lon="128.829546">
+          <ele>128.0</ele></trkpt>
+      <trkpt lat="35.040553" lon="128.828966">
+          <ele>144.0</ele></trkpt>
+      <trkpt lat="35.040456" lon="128.828968">
+          <ele>146.0</ele></trkpt>
+      <trkpt lat="35.040365" lon="128.829199">
+          <ele>139.0</ele></trkpt>
+      <trkpt lat="35.040289" lon="128.829117">
+          <ele>143.0</ele></trkpt>
+      <trkpt lat="35.040387" lon="128.828876">
+          <ele>151.0</ele></trkpt>
+      <trkpt lat="35.040302" lon="128.828799">
+          <ele>157.0</ele></trkpt>
+      <trkpt lat="35.040114" lon="128.829094">
+          <ele>153.0</ele></trkpt>
+      <trkpt lat="35.040054" lon="128.82901">
+          <ele>159.0</ele></trkpt>
+      <trkpt lat="35.040323" lon="128.828622">
+          <ele>164.0</ele></trkpt>
+      <trkpt lat="35.040342" lon="128.82841">
+          <ele>172.0</ele></trkpt>
+      <trkpt lat="35.039866" lon="128.82851">
+          <ele>178.0</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

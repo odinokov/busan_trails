@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+      <name>Cheolmasanseobong Course</name></metadata>
+  <trk>
+    <name>Cheolmasanseobong Course (1/7)</name>
+    <trkseg>
+      <trkpt lat="35.311707" lon="129.132873">
+          <ele>564.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Cheolmasanseobong Course (2/7)</name>
+    <trkseg>
+      <trkpt lat="35.311453" lon="129.133689">
+          <ele>554.0</ele></trkpt>
+      <trkpt lat="35.310891" lon="129.134148">
+          <ele>565.0</ele></trkpt>
+      <trkpt lat="35.310535" lon="129.134344">
+          <ele>568.0</ele></trkpt>
+      <trkpt lat="35.310415" lon="129.134307">
+          <ele>570.0</ele></trkpt>
+      <trkpt lat="35.310037" lon="129.134758">
+          <ele>575.0</ele></trkpt>
+      <trkpt lat="35.309833" lon="129.135318">
+          <ele>586.0</ele></trkpt>
+      <trkpt lat="35.30984" lon="129.135599">
+          <ele>589.0</ele></trkpt>
+      <trkpt lat="35.309718" lon="129.135909">
+          <ele>598.0</ele></trkpt>
+      <trkpt lat="35.309612" lon="129.135985">
+          <ele>598.0</ele></trkpt>
+      <trkpt lat="35.310096" lon="129.136678">
+          <ele>590.0</ele></trkpt>
+      <trkpt lat="35.310501" lon="129.13692">
+          <ele>569.0</ele></trkpt>
+      <trkpt lat="35.310877" lon="129.137006">
+          <ele>556.0</ele></trkpt>
+      <trkpt lat="35.311124" lon="129.137252">
+          <ele>545.0</ele></trkpt>
+      <trkpt lat="35.311331" lon="129.137104">
+          <ele>538.0</ele></trkpt>
+      <trkpt lat="35.311924" lon="129.137103">
+          <ele>536.0</ele></trkpt>
+      <trkpt lat="35.31265" lon="129.137724">
+          <ele>502.0</ele></trkpt>
+      <trkpt lat="35.312738" lon="129.137722">
+          <ele>499.0</ele></trkpt>
+      <trkpt lat="35.31286" lon="129.138031">
+          <ele>492.0</ele></trkpt>
+      <trkpt lat="35.312774" lon="129.138297">
+          <ele>486.0</ele></trkpt>
+      <trkpt lat="35.312807" lon="129.138514">
+          <ele>482.0</ele></trkpt>
+      <trkpt lat="35.312737" lon="129.138853">
+          <ele>474.0</ele></trkpt>
+      <trkpt lat="35.312789" lon="129.138954">
+          <ele>471.0</ele></trkpt>
+      <trkpt lat="35.313052" lon="129.139271">
+          <ele>453.0</ele></trkpt>
+      <trkpt lat="35.313176" lon="129.139239">
+          <ele>447.0</ele></trkpt>
+      <trkpt lat="35.313509" lon="129.139465">
+          <ele>411.0</ele></trkpt>
+      <trkpt lat="35.313598" lon="129.139446">
+          <ele>406.0</ele></trkpt>
+      <trkpt lat="35.313859" lon="129.139804">
+          <ele>387.0</ele></trkpt>
+      <trkpt lat="35.314048" lon="129.139808">
+          <ele>385.0</ele></trkpt>
+      <trkpt lat="35.314235" lon="129.14009">
+          <ele>378.0</ele></trkpt>
+      <trkpt lat="35.314125" lon="129.140316">
+          <ele>374.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Cheolmasanseobong Course (3/7)</name>
+    <trkseg>
+      <trkpt lat="35.311707" lon="129.132873">
+          <ele>564.0</ele></trkpt>
+      <trkpt lat="35.311829" lon="129.133248">
+          <ele>558.0</ele></trkpt>
+      <trkpt lat="35.31228" lon="129.13354">
+          <ele>543.0</ele></trkpt>
+      <trkpt lat="35.313283" lon="129.133624">
+          <ele>499.0</ele></trkpt>
+      <trkpt lat="35.313465" lon="129.133674">
+          <ele>492.0</ele></trkpt>
+      <trkpt lat="35.313501" lon="129.13378">
+          <ele>489.0</ele></trkpt>
+      <trkpt lat="35.314001" lon="129.133903">
+          <ele>474.0</ele></trkpt>
+      <trkpt lat="35.314358" lon="129.133879">
+          <ele>470.0</ele></trkpt>
+      <trkpt lat="35.314981" lon="129.134184">
+          <ele>445.0</ele></trkpt>
+      <trkpt lat="35.315109" lon="129.134395">
+          <ele>428.0</ele></trkpt>
+      <trkpt lat="35.31515" lon="129.134215">
+          <ele>436.0</ele></trkpt>
+      <trkpt lat="35.315375" lon="129.13444">
+          <ele>420.0</ele></trkpt>
+      <trkpt lat="35.315531" lon="129.134305">
+          <ele>417.0</ele></trkpt>
+      <trkpt lat="35.315544" lon="129.134197">
+          <ele>420.0</ele></trkpt>
+      <trkpt lat="35.315752" lon="129.134451">
+          <ele>404.0</ele></trkpt>
+      <trkpt lat="35.316053" lon="129.134445">
+          <ele>397.0</ele></trkpt>
+      <trkpt lat="35.316181" lon="129.134349">
+          <ele>396.0</ele></trkpt>
+      <trkpt lat="35.31654" lon="129.134516">
+          <ele>385.0</ele></trkpt>
+      <trkpt lat="35.316305" lon="129.134194">
+          <ele>391.0</ele></trkpt>
+      <trkpt lat="35.316298" lon="129.133856">
+          <ele>387.0</ele></trkpt>
+      <trkpt lat="35.316585" lon="129.133823">
+          <ele>374.0</ele></trkpt>
+      <trkpt lat="35.31651" lon="129.133753">
+          <ele>374.0</ele></trkpt>
+      <trkpt lat="35.316501" lon="129.133494">
+          <ele>367.0</ele></trkpt>
+      <trkpt lat="35.316736" lon="129.133442">
+          <ele>356.0</ele></trkpt>
+      <trkpt lat="35.317044" lon="129.133132">
+          <ele>341.0</ele></trkpt>
+      <trkpt lat="35.31723" lon="129.133205">
+          <ele>336.0</ele></trkpt>
+      <trkpt lat="35.317877" lon="129.132905">
+          <ele>306.0</ele></trkpt>
+      <trkpt lat="35.318061" lon="129.132954">
+          <ele>303.0</ele></trkpt>
+      <trkpt lat="35.318397" lon="129.132816">
+          <ele>295.0</ele></trkpt>
+      <trkpt lat="35.318722" lon="129.132524">
+          <ele>278.0</ele></trkpt>
+      <trkpt lat="35.31902" lon="129.132166">
+          <ele>258.0</ele></trkpt>
+      <trkpt lat="35.318924" lon="129.131874">
+          <ele>258.0</ele></trkpt>
+      <trkpt lat="35.31863" lon="129.131581">
+          <ele>252.0</ele></trkpt>
+      <trkpt lat="35.318044" lon="129.131393">
+          <ele>245.0</ele></trkpt>
+      <trkpt lat="35.318025" lon="129.131271">
+          <ele>239.0</ele></trkpt>
+      <trkpt lat="35.31745" lon="129.130842">
+          <ele>225.0</ele></trkpt>
+      <trkpt lat="35.316633" lon="129.129529">
+          <ele>198.0</ele></trkpt>
+      <trkpt lat="35.316581" lon="129.129189">
+          <ele>189.0</ele></trkpt>
+      <trkpt lat="35.316664" lon="129.128472">
+          <ele>196.0</ele></trkpt>
+      <trkpt lat="35.316928" lon="129.127995">
+          <ele>180.0</ele></trkpt>
+      <trkpt lat="35.316398" lon="129.127165">
+          <ele>170.0</ele></trkpt>
+      <trkpt lat="35.31703" lon="129.12578">
+          <ele>157.0</ele></trkpt>
+      <trkpt lat="35.316899" lon="129.125457">
+          <ele>151.0</ele></trkpt>
+      <trkpt lat="35.3167" lon="129.125225">
+          <ele>158.0</ele></trkpt>
+      <trkpt lat="35.316633" lon="129.124735">
+          <ele>147.0</ele></trkpt>
+      <trkpt lat="35.316337" lon="129.123682">
+          <ele>128.0</ele></trkpt>
+      <trkpt lat="35.316679" lon="129.123671">
+          <ele>126.0</ele></trkpt>
+      <trkpt lat="35.317033" lon="129.123823">
+          <ele>132.0</ele></trkpt>
+      <trkpt lat="35.317352" lon="129.1237">
+          <ele>125.0</ele></trkpt>
+      <trkpt lat="35.317471" lon="129.123801">
+          <ele>117.0</ele></trkpt>
+      <trkpt lat="35.317807" lon="129.123524">
+          <ele>114.0</ele></trkpt>
+      <trkpt lat="35.317996" lon="129.123701">
+          <ele>99.0</ele></trkpt>
+      <trkpt lat="35.318223" lon="129.123749">
+          <ele>94.0</ele></trkpt>
+      <trkpt lat="35.318592" lon="129.12359">
+          <ele>89.0</ele></trkpt>
+      <trkpt lat="35.318818" lon="129.12335">
+          <ele>85.0</ele></trkpt>
+      <trkpt lat="35.319125" lon="129.123654">
+          <ele>86.0</ele></trkpt>
+      <trkpt lat="35.319444" lon="129.123682">
+          <ele>82.0</ele></trkpt>
+      <trkpt lat="35.319708" lon="129.123506">
+          <ele>77.0</ele></trkpt>
+      <trkpt lat="35.319805" lon="129.123287">
+          <ele>77.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Cheolmasanseobong Course (4/7)</name>
+    <trkseg>
+      <trkpt lat="35.31962" lon="129.11811">
+          <ele>70.0</ele></trkpt>
+      <trkpt lat="35.319622" lon="129.119006">
+          <ele>63.0</ele></trkpt>
+      <trkpt lat="35.319384" lon="129.119963">
+          <ele>64.0</ele></trkpt>
+      <trkpt lat="35.319418" lon="129.120071">
+          <ele>64.0</ele></trkpt>
+      <trkpt lat="35.319484" lon="129.12017">
+          <ele>65.0</ele></trkpt>
+      <trkpt lat="35.319915" lon="129.120134">
+          <ele>73.0</ele></trkpt>
+      <trkpt lat="35.320121" lon="129.120199">
+          <ele>73.0</ele></trkpt>
+      <trkpt lat="35.32039" lon="129.12007">
+          <ele>75.0</ele></trkpt>
+      <trkpt lat="35.320529" lon="129.120664">
+          <ele>73.0</ele></trkpt>
+      <trkpt lat="35.320292" lon="129.121443">
+          <ele>73.0</ele></trkpt>
+      <trkpt lat="35.320147" lon="129.1216">
+          <ele>73.0</ele></trkpt>
+      <trkpt lat="35.319934" lon="129.122183">
+          <ele>82.0</ele></trkpt>
+      <trkpt lat="35.319949" lon="129.122427">
+          <ele>85.0</ele></trkpt>
+      <trkpt lat="35.319753" lon="129.123049">
+          <ele>77.0</ele></trkpt>
+      <trkpt lat="35.319805" lon="129.123287">
+          <ele>77.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Cheolmasanseobong Course (5/7)</name>
+    <trkseg>
+      <trkpt lat="35.319805" lon="129.123287">
+          <ele>77.0</ele></trkpt>
+      <trkpt lat="35.319557" lon="129.12548">
+          <ele>84.0</ele></trkpt>
+      <trkpt lat="35.319275" lon="129.126716">
+          <ele>115.0</ele></trkpt>
+      <trkpt lat="35.319156" lon="129.127059">
+          <ele>125.0</ele></trkpt>
+      <trkpt lat="35.318859" lon="129.127392">
+          <ele>122.0</ele></trkpt>
+      <trkpt lat="35.318576" lon="129.127886">
+          <ele>132.0</ele></trkpt>
+      <trkpt lat="35.318178" lon="129.128113">
+          <ele>133.0</ele></trkpt>
+      <trkpt lat="35.318352" lon="129.12857">
+          <ele>147.0</ele></trkpt>
+      <trkpt lat="35.318638" lon="129.128581">
+          <ele>149.0</ele></trkpt>
+      <trkpt lat="35.318924" lon="129.12871">
+          <ele>153.0</ele></trkpt>
+      <trkpt lat="35.31932" lon="129.129097">
+          <ele>150.0</ele></trkpt>
+      <trkpt lat="35.31957" lon="129.129087">
+          <ele>152.0</ele></trkpt>
+      <trkpt lat="35.320122" lon="129.129946">
+          <ele>145.0</ele></trkpt>
+      <trkpt lat="35.320542" lon="129.129977">
+          <ele>147.0</ele></trkpt>
+      <trkpt lat="35.320958" lon="129.12979">
+          <ele>159.0</ele></trkpt>
+      <trkpt lat="35.321295" lon="129.130079">
+          <ele>169.0</ele></trkpt>
+      <trkpt lat="35.321325" lon="129.130708">
+          <ele>161.0</ele></trkpt>
+      <trkpt lat="35.321471" lon="129.131067">
+          <ele>156.0</ele></trkpt>
+      <trkpt lat="35.321642" lon="129.131216">
+          <ele>156.0</ele></trkpt>
+      <trkpt lat="35.321845" lon="129.131753">
+          <ele>159.0</ele></trkpt>
+      <trkpt lat="35.321919" lon="129.132658">
+          <ele>151.0</ele></trkpt>
+      <trkpt lat="35.321818" lon="129.133214">
+          <ele>155.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Cheolmasanseobong Course (6/7)</name>
+    <trkseg>
+      <trkpt lat="35.321818" lon="129.133214">
+          <ele>155.0</ele></trkpt>
+      <trkpt lat="35.32147" lon="129.134335">
+          <ele>159.0</ele></trkpt>
+      <trkpt lat="35.321444" lon="129.134766">
+          <ele>153.0</ele></trkpt>
+      <trkpt lat="35.321599" lon="129.134928">
+          <ele>162.0</ele></trkpt>
+      <trkpt lat="35.321467" lon="129.135126">
+          <ele>156.0</ele></trkpt>
+      <trkpt lat="35.321425" lon="129.135977">
+          <ele>157.0</ele></trkpt>
+      <trkpt lat="35.321562" lon="129.136129">
+          <ele>159.0</ele></trkpt>
+      <trkpt lat="35.321263" lon="129.13649">
+          <ele>160.0</ele></trkpt>
+      <trkpt lat="35.32114" lon="129.136795">
+          <ele>159.0</ele></trkpt>
+      <trkpt lat="35.321224" lon="129.136843">
+          <ele>159.0</ele></trkpt>
+      <trkpt lat="35.321047" lon="129.137081">
+          <ele>165.0</ele></trkpt>
+      <trkpt lat="35.321014" lon="129.137321">
+          <ele>177.0</ele></trkpt>
+      <trkpt lat="35.320617" lon="129.137646">
+          <ele>196.0</ele></trkpt>
+      <trkpt lat="35.320597" lon="129.137866">
+          <ele>203.0</ele></trkpt>
+      <trkpt lat="35.320308" lon="129.138015">
+          <ele>204.0</ele></trkpt>
+      <trkpt lat="35.320104" lon="129.138411">
+          <ele>212.0</ele></trkpt>
+      <trkpt lat="35.319921" lon="129.138521">
+          <ele>210.0</ele></trkpt>
+      <trkpt lat="35.319801" lon="129.138856">
+          <ele>220.0</ele></trkpt>
+      <trkpt lat="35.319537" lon="129.139159">
+          <ele>223.0</ele></trkpt>
+      <trkpt lat="35.318972" lon="129.139419">
+          <ele>226.0</ele></trkpt>
+      <trkpt lat="35.318662" lon="129.140132">
+          <ele>241.0</ele></trkpt>
+      <trkpt lat="35.318517" lon="129.140279">
+          <ele>253.0</ele></trkpt>
+      <trkpt lat="35.318277" lon="129.140495">
+          <ele>265.0</ele></trkpt>
+      <trkpt lat="35.317887" lon="129.140578">
+          <ele>265.0</ele></trkpt>
+      <trkpt lat="35.3176" lon="129.140865">
+          <ele>261.0</ele></trkpt>
+      <trkpt lat="35.31695" lon="129.140955">
+          <ele>279.0</ele></trkpt>
+      <trkpt lat="35.316517" lon="129.140925">
+          <ele>290.0</ele></trkpt>
+      <trkpt lat="35.316373" lon="129.140792">
+          <ele>295.0</ele></trkpt>
+      <trkpt lat="35.316199" lon="129.14083">
+          <ele>299.0</ele></trkpt>
+      <trkpt lat="35.316051" lon="129.14076">
+          <ele>303.0</ele></trkpt>
+      <trkpt lat="35.315794" lon="129.140875">
+          <ele>307.0</ele></trkpt>
+      <trkpt lat="35.315312" lon="129.140784">
+          <ele>334.0</ele></trkpt>
+      <trkpt lat="35.314691" lon="129.14085">
+          <ele>350.0</ele></trkpt>
+      <trkpt lat="35.314351" lon="129.140618">
+          <ele>363.0</ele></trkpt>
+      <trkpt lat="35.314125" lon="129.140316">
+          <ele>374.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Cheolmasanseobong Course (7/7)</name>
+    <trkseg>
+      <trkpt lat="35.322377" lon="129.137518">
+          <ele>171.0</ele></trkpt>
+      <trkpt lat="35.322425" lon="129.136943">
+          <ele>169.0</ele></trkpt>
+      <trkpt lat="35.322327" lon="129.136904">
+          <ele>169.0</ele></trkpt>
+      <trkpt lat="35.322165" lon="129.13658">
+          <ele>171.0</ele></trkpt>
+      <trkpt lat="35.32186" lon="129.135718">
+          <ele>176.0</ele></trkpt>
+      <trkpt lat="35.321755" lon="129.134843">
+          <ele>174.0</ele></trkpt>
+      <trkpt lat="35.321824" lon="129.134503">
+          <ele>179.0</ele></trkpt>
+      <trkpt lat="35.321673" lon="129.134332">
+          <ele>164.0</ele></trkpt>
+      <trkpt lat="35.321818" lon="129.133214">
+          <ele>155.0</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+      <name>Sambakbong Course</name></metadata>
+  <trk>
+    <name>Sambakbong Course (1/7)</name>
+    <trkseg>
+      <trkpt lat="35.037013" lon="128.816025">
+          <ele>49.0</ele></trkpt>
+      <trkpt lat="35.037182" lon="128.8163">
+          <ele>51.0</ele></trkpt>
+      <trkpt lat="35.037324" lon="128.817453">
+          <ele>76.0</ele></trkpt>
+      <trkpt lat="35.037592" lon="128.817949">
+          <ele>89.0</ele></trkpt>
+      <trkpt lat="35.037357" lon="128.818945">
+          <ele>110.0</ele></trkpt>
+      <trkpt lat="35.037399" lon="128.819482">
+          <ele>114.0</ele></trkpt>
+      <trkpt lat="35.037724" lon="128.820034">
+          <ele>118.0</ele></trkpt>
+      <trkpt lat="35.038086" lon="128.820102">
+          <ele>129.0</ele></trkpt>
+      <trkpt lat="35.038262" lon="128.820231">
+          <ele>136.0</ele></trkpt>
+      <trkpt lat="35.03838" lon="128.820509">
+          <ele>142.0</ele></trkpt>
+      <trkpt lat="35.038444" lon="128.82109">
+          <ele>142.0</ele></trkpt>
+      <trkpt lat="35.038772" lon="128.821438">
+          <ele>152.0</ele></trkpt>
+      <trkpt lat="35.038899" lon="128.821778">
+          <ele>156.0</ele></trkpt>
+      <trkpt lat="35.03877" lon="128.822078">
+          <ele>152.0</ele></trkpt>
+      <trkpt lat="35.03873" lon="128.822447">
+          <ele>153.0</ele></trkpt>
+      <trkpt lat="35.038561" lon="128.822777">
+          <ele>150.0</ele></trkpt>
+      <trkpt lat="35.038637" lon="128.82325">
+          <ele>154.0</ele></trkpt>
+      <trkpt lat="35.038417" lon="128.824078">
+          <ele>150.0</ele></trkpt>
+      <trkpt lat="35.03844" lon="128.824312">
+          <ele>153.0</ele></trkpt>
+      <trkpt lat="35.03873" lon="128.825103">
+          <ele>169.0</ele></trkpt>
+      <trkpt lat="35.03867" lon="128.825318">
+          <ele>171.0</ele></trkpt>
+      <trkpt lat="35.038387" lon="128.825603">
+          <ele>165.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Sambakbong Course (2/7)</name>
+    <trkseg>
+      <trkpt lat="35.038387" lon="128.825603">
+          <ele>165.0</ele></trkpt>
+      <trkpt lat="35.038464" lon="128.826189">
+          <ele>170.0</ele></trkpt>
+      <trkpt lat="35.03895" lon="128.827017">
+          <ele>180.0</ele></trkpt>
+      <trkpt lat="35.039101" lon="128.827715">
+          <ele>182.0</ele></trkpt>
+      <trkpt lat="35.039409" lon="128.828209">
+          <ele>183.0</ele></trkpt>
+      <trkpt lat="35.039794" lon="128.828519">
+          <ele>180.0</ele></trkpt>
+      <trkpt lat="35.039959" lon="128.828539">
+          <ele>176.0</ele></trkpt>
+      <trkpt lat="35.039788" lon="128.828181">
+          <ele>184.0</ele></trkpt>
+      <trkpt lat="35.039747" lon="128.827861">
+          <ele>186.0</ele></trkpt>
+      <trkpt lat="35.03981" lon="128.827641">
+          <ele>188.0</ele></trkpt>
+      <trkpt lat="35.039683" lon="128.827287">
+          <ele>193.0</ele></trkpt>
+      <trkpt lat="35.039915" lon="128.827079">
+          <ele>199.0</ele></trkpt>
+      <trkpt lat="35.040219" lon="128.826321">
+          <ele>223.0</ele></trkpt>
+      <trkpt lat="35.040839" lon="128.825793">
+          <ele>237.0</ele></trkpt>
+      <trkpt lat="35.041403" lon="128.825">
+          <ele>270.0</ele></trkpt>
+      <trkpt lat="35.041829" lon="128.824656">
+          <ele>295.0</ele></trkpt>
+      <trkpt lat="35.042164" lon="128.824667">
+          <ele>305.0</ele></trkpt>
+      <trkpt lat="35.042522" lon="128.824118">
+          <ele>321.0</ele></trkpt>
+      <trkpt lat="35.042853" lon="128.823923">
+          <ele>313.0</ele></trkpt>
+      <trkpt lat="35.042957" lon="128.823442">
+          <ele>310.0</ele></trkpt>
+      <trkpt lat="35.043139" lon="128.823055">
+          <ele>302.0</ele></trkpt>
+      <trkpt lat="35.043016" lon="128.82267">
+          <ele>299.0</ele></trkpt>
+      <trkpt lat="35.043188" lon="128.822087">
+          <ele>301.0</ele></trkpt>
+      <trkpt lat="35.044446" lon="128.82101">
+          <ele>293.0</ele></trkpt>
+      <trkpt lat="35.04465" lon="128.820746">
+          <ele>294.0</ele></trkpt>
+      <trkpt lat="35.045489" lon="128.820276">
+          <ele>283.0</ele></trkpt>
+      <trkpt lat="35.045708" lon="128.820061">
+          <ele>284.0</ele></trkpt>
+      <trkpt lat="35.046096" lon="128.819982">
+          <ele>276.0</ele></trkpt>
+      <trkpt lat="35.04617" lon="128.819792">
+          <ele>273.0</ele></trkpt>
+      <trkpt lat="35.046825" lon="128.819369">
+          <ele>255.0</ele></trkpt>
+      <trkpt lat="35.047264" lon="128.818832">
+          <ele>251.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Sambakbong Course (3/7)</name>
+    <trkseg>
+      <trkpt lat="35.047264" lon="128.818832">
+          <ele>251.0</ele></trkpt>
+      <trkpt lat="35.046903" lon="128.818611">
+          <ele>249.0</ele></trkpt>
+      <trkpt lat="35.046619" lon="128.818621">
+          <ele>248.0</ele></trkpt>
+      <trkpt lat="35.046172" lon="128.817689">
+          <ele>242.0</ele></trkpt>
+      <trkpt lat="35.045743" lon="128.81736">
+          <ele>239.0</ele></trkpt>
+      <trkpt lat="35.045074" lon="128.81794">
+          <ele>242.0</ele></trkpt>
+      <trkpt lat="35.04467" lon="128.818084">
+          <ele>239.0</ele></trkpt>
+      <trkpt lat="35.044131" lon="128.818437">
+          <ele>244.0</ele></trkpt>
+      <trkpt lat="35.043612" lon="128.818293">
+          <ele>238.0</ele></trkpt>
+      <trkpt lat="35.043271" lon="128.817655">
+          <ele>226.0</ele></trkpt>
+      <trkpt lat="35.043098" lon="128.817519">
+          <ele>222.0</ele></trkpt>
+      <trkpt lat="35.042671" lon="128.817516">
+          <ele>222.0</ele></trkpt>
+      <trkpt lat="35.042268" lon="128.817754">
+          <ele>226.0</ele></trkpt>
+      <trkpt lat="35.041656" lon="128.818569">
+          <ele>236.0</ele></trkpt>
+      <trkpt lat="35.041063" lon="128.818822">
+          <ele>228.0</ele></trkpt>
+      <trkpt lat="35.040649" lon="128.819428">
+          <ele>213.0</ele></trkpt>
+      <trkpt lat="35.040687" lon="128.820732">
+          <ele>220.0</ele></trkpt>
+      <trkpt lat="35.040443" lon="128.821495">
+          <ele>218.0</ele></trkpt>
+      <trkpt lat="35.040577" lon="128.821825">
+          <ele>221.0</ele></trkpt>
+      <trkpt lat="35.0406" lon="128.822214">
+          <ele>226.0</ele></trkpt>
+      <trkpt lat="35.040272" lon="128.823194">
+          <ele>232.0</ele></trkpt>
+      <trkpt lat="35.039828" lon="128.823908">
+          <ele>219.0</ele></trkpt>
+      <trkpt lat="35.039644" lon="128.824691">
+          <ele>210.0</ele></trkpt>
+      <trkpt lat="35.039597" lon="128.824784">
+          <ele>208.0</ele></trkpt>
+      <trkpt lat="35.039507" lon="128.824723">
+          <ele>203.0</ele></trkpt>
+      <trkpt lat="35.03948" lon="128.824381">
+          <ele>202.0</ele></trkpt>
+      <trkpt lat="35.039214" lon="128.823833">
+          <ele>179.0</ele></trkpt>
+      <trkpt lat="35.039135" lon="128.8239">
+          <ele>174.0</ele></trkpt>
+      <trkpt lat="35.03915" lon="128.824431">
+          <ele>175.0</ele></trkpt>
+      <trkpt lat="35.038982" lon="128.824774">
+          <ele>174.0</ele></trkpt>
+      <trkpt lat="35.038994" lon="128.825167">
+          <ele>181.0</ele></trkpt>
+      <trkpt lat="35.038719" lon="128.825466">
+          <ele>176.0</ele></trkpt>
+      <trkpt lat="35.038387" lon="128.825603">
+          <ele>165.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Sambakbong Course (4/7)</name>
+    <trkseg>
+      <trkpt lat="35.04796" lon="128.817674">
+          <ele>259.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Sambakbong Course (5/7)</name>
+    <trkseg>
+      <trkpt lat="35.048215" lon="128.817754">
+          <ele>259.0</ele></trkpt>
+      <trkpt lat="35.048869" lon="128.817548">
+          <ele>265.0</ele></trkpt>
+      <trkpt lat="35.049678" lon="128.817117">
+          <ele>283.0</ele></trkpt>
+      <trkpt lat="35.050043" lon="128.817109">
+          <ele>289.0</ele></trkpt>
+      <trkpt lat="35.05017" lon="128.816936">
+          <ele>291.0</ele></trkpt>
+      <trkpt lat="35.050533" lon="128.816892">
+          <ele>287.0</ele></trkpt>
+      <trkpt lat="35.050888" lon="128.817079">
+          <ele>277.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Sambakbong Course (6/7)</name>
+    <trkseg>
+      <trkpt lat="35.050888" lon="128.817079">
+          <ele>277.0</ele></trkpt>
+      <trkpt lat="35.050822" lon="128.816682">
+          <ele>280.0</ele></trkpt>
+      <trkpt lat="35.050612" lon="128.81653">
+          <ele>282.0</ele></trkpt>
+      <trkpt lat="35.050339" lon="128.815593">
+          <ele>266.0</ele></trkpt>
+      <trkpt lat="35.049993" lon="128.815534">
+          <ele>269.0</ele></trkpt>
+      <trkpt lat="35.049849" lon="128.81565">
+          <ele>274.0</ele></trkpt>
+      <trkpt lat="35.049739" lon="128.816129">
+          <ele>282.0</ele></trkpt>
+      <trkpt lat="35.049263" lon="128.816501">
+          <ele>273.0</ele></trkpt>
+      <trkpt lat="35.049088" lon="128.816866">
+          <ele>273.0</ele></trkpt>
+      <trkpt lat="35.048708" lon="128.817247">
+          <ele>269.0</ele></trkpt>
+      <trkpt lat="35.048524" lon="128.817373">
+          <ele>266.0</ele></trkpt>
+      <trkpt lat="35.048192" lon="128.817418">
+          <ele>261.0</ele></trkpt>
+      <trkpt lat="35.04796" lon="128.817674">
+          <ele>259.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Sambakbong Course (7/7)</name>
+    <trkseg>
+      <trkpt lat="35.050888" lon="128.817079">
+          <ele>277.0</ele></trkpt>
+      <trkpt lat="35.051278" lon="128.817023">
+          <ele>279.0</ele></trkpt>
+      <trkpt lat="35.051449" lon="128.817091">
+          <ele>280.0</ele></trkpt>
+      <trkpt lat="35.051734" lon="128.816955">
+          <ele>282.0</ele></trkpt>
+      <trkpt lat="35.052107" lon="128.817051">
+          <ele>283.0</ele></trkpt>
+      <trkpt lat="35.052703" lon="128.817002">
+          <ele>290.0</ele></trkpt>
+      <trkpt lat="35.05286" lon="128.816855">
+          <ele>287.0</ele></trkpt>
+      <trkpt lat="35.052883" lon="128.816631">
+          <ele>289.0</ele></trkpt>
+      <trkpt lat="35.053041" lon="128.816368">
+          <ele>288.0</ele></trkpt>
+      <trkpt lat="35.053215" lon="128.815666">
+          <ele>292.0</ele></trkpt>
+      <trkpt lat="35.053196" lon="128.815307">
+          <ele>298.0</ele></trkpt>
+      <trkpt lat="35.053308" lon="128.815003">
+          <ele>299.0</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

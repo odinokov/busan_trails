@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+      <name>Pungsangsan Course</name></metadata>
+  <trk>
+    <name>Pungsangsan Course (1/3)</name>
+    <trkseg>
+      <trkpt lat="35.149603" lon="128.84722">
+          <ele>181.0</ele></trkpt>
+      <trkpt lat="35.149413" lon="128.847257">
+          <ele>177.0</ele></trkpt>
+      <trkpt lat="35.149173" lon="128.847484">
+          <ele>166.0</ele></trkpt>
+      <trkpt lat="35.148451" lon="128.848421">
+          <ele>164.0</ele></trkpt>
+      <trkpt lat="35.148124" lon="128.8493">
+          <ele>177.0</ele></trkpt>
+      <trkpt lat="35.148065" lon="128.849942">
+          <ele>185.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Pungsangsan Course (2/3)</name>
+    <trkseg>
+      <trkpt lat="35.149603" lon="128.84722">
+          <ele>181.0</ele></trkpt>
+      <trkpt lat="35.149551" lon="128.847158">
+          <ele>180.0</ele></trkpt>
+      <trkpt lat="35.149636" lon="128.847101">
+          <ele>181.0</ele></trkpt>
+      <trkpt lat="35.149654" lon="128.846879">
+          <ele>181.0</ele></trkpt>
+      <trkpt lat="35.149482" lon="128.84625">
+          <ele>178.0</ele></trkpt>
+      <trkpt lat="35.149803" lon="128.845399">
+          <ele>141.0</ele></trkpt>
+      <trkpt lat="35.149795" lon="128.844836">
+          <ele>121.0</ele></trkpt>
+      <trkpt lat="35.149893" lon="128.844635">
+          <ele>116.0</ele></trkpt>
+      <trkpt lat="35.149874" lon="128.844171">
+          <ele>111.0</ele></trkpt>
+      <trkpt lat="35.150116" lon="128.843881">
+          <ele>104.0</ele></trkpt>
+      <trkpt lat="35.150606" lon="128.843635">
+          <ele>88.0</ele></trkpt>
+      <trkpt lat="35.150668" lon="128.843435">
+          <ele>80.0</ele></trkpt>
+      <trkpt lat="35.150745" lon="128.842717">
+          <ele>55.0</ele></trkpt>
+      <trkpt lat="35.15073" lon="128.842392">
+          <ele>44.0</ele></trkpt>
+      <trkpt lat="35.150665" lon="128.842315">
+          <ele>45.0</ele></trkpt>
+      <trkpt lat="35.150696" lon="128.842125">
+          <ele>41.0</ele></trkpt>
+      <trkpt lat="35.150557" lon="128.841692">
+          <ele>41.0</ele></trkpt>
+      <trkpt lat="35.150624" lon="128.841417">
+          <ele>38.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Pungsangsan Course (3/3)</name>
+    <trkseg>
+      <trkpt lat="35.149603" lon="128.84722">
+          <ele>181.0</ele></trkpt>
+      <trkpt lat="35.149753" lon="128.847396">
+          <ele>180.0</ele></trkpt>
+      <trkpt lat="35.149977" lon="128.847016">
+          <ele>176.0</ele></trkpt>
+      <trkpt lat="35.150159" lon="128.846917">
+          <ele>167.0</ele></trkpt>
+      <trkpt lat="35.1505" lon="128.847052">
+          <ele>157.0</ele></trkpt>
+      <trkpt lat="35.150637" lon="128.847189">
+          <ele>151.0</ele></trkpt>
+      <trkpt lat="35.150669" lon="128.847295">
+          <ele>149.0</ele></trkpt>
+      <trkpt lat="35.150611" lon="128.847372">
+          <ele>152.0</ele></trkpt>
+      <trkpt lat="35.150703" lon="128.84735">
+          <ele>147.0</ele></trkpt>
+      <trkpt lat="35.150766" lon="128.847008">
+          <ele>142.0</ele></trkpt>
+      <trkpt lat="35.150677" lon="128.846677">
+          <ele>141.0</ele></trkpt>
+      <trkpt lat="35.151274" lon="128.846767">
+          <ele>109.0</ele></trkpt>
+      <trkpt lat="35.15153" lon="128.846691">
+          <ele>101.0</ele></trkpt>
+      <trkpt lat="35.151869" lon="128.845968">
+          <ele>93.0</ele></trkpt>
+      <trkpt lat="35.151826" lon="128.845769">
+          <ele>91.0</ele></trkpt>
+      <trkpt lat="35.151673" lon="128.845616">
+          <ele>90.0</ele></trkpt>
+      <trkpt lat="35.151653" lon="128.84526">
+          <ele>86.0</ele></trkpt>
+      <trkpt lat="35.151735" lon="128.844606">
+          <ele>69.0</ele></trkpt>
+      <trkpt lat="35.152054" lon="128.844341">
+          <ele>65.0</ele></trkpt>
+      <trkpt lat="35.151978" lon="128.843345">
+          <ele>49.0</ele></trkpt>
+      <trkpt lat="35.152008" lon="128.84311">
+          <ele>49.0</ele></trkpt>
+      <trkpt lat="35.152135" lon="128.842896">
+          <ele>53.0</ele></trkpt>
+      <trkpt lat="35.152114" lon="128.842775">
+          <ele>52.0</ele></trkpt>
+      <trkpt lat="35.151561" lon="128.842709">
+          <ele>37.0</ele></trkpt>
+      <trkpt lat="35.150935" lon="128.841775">
+          <ele>37.0</ele></trkpt>
+      <trkpt lat="35.150751" lon="128.841683">
+          <ele>38.0</ele></trkpt>
+      <trkpt lat="35.150624" lon="128.841417">
+          <ele>38.0</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

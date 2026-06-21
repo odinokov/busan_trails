@@ -1,0 +1,553 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+      <name>Guksubong Course</name></metadata>
+  <trk>
+    <name>Guksubong Course (1/14)</name>
+    <trkseg>
+      <trkpt lat="35.001795" lon="128.831156">
+          <ele>157.0</ele></trkpt>
+      <trkpt lat="35.001816" lon="128.830806">
+          <ele>159.0</ele></trkpt>
+      <trkpt lat="35.001724" lon="128.830321">
+          <ele>153.0</ele></trkpt>
+      <trkpt lat="35.00177" lon="128.829139">
+          <ele>128.0</ele></trkpt>
+      <trkpt lat="35.001408" lon="128.828551">
+          <ele>125.0</ele></trkpt>
+      <trkpt lat="35.001272" lon="128.82805">
+          <ele>119.0</ele></trkpt>
+      <trkpt lat="35.000887" lon="128.827614">
+          <ele>114.0</ele></trkpt>
+      <trkpt lat="35.000835" lon="128.827269">
+          <ele>106.0</ele></trkpt>
+      <trkpt lat="35.000944" lon="128.827077">
+          <ele>104.0</ele></trkpt>
+      <trkpt lat="35.001641" lon="128.826921">
+          <ele>83.0</ele></trkpt>
+      <trkpt lat="35.00229" lon="128.826627">
+          <ele>64.0</ele></trkpt>
+      <trkpt lat="35.002855" lon="128.826135">
+          <ele>43.0</ele></trkpt>
+      <trkpt lat="35.003099" lon="128.825708">
+          <ele>40.0</ele></trkpt>
+      <trkpt lat="35.00374" lon="128.825118">
+          <ele>27.0</ele></trkpt>
+      <trkpt lat="35.003642" lon="128.824439">
+          <ele>30.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Guksubong Course (2/14)</name>
+    <trkseg>
+      <trkpt lat="35.001795" lon="128.831156">
+          <ele>157.0</ele></trkpt>
+      <trkpt lat="35.001828" lon="128.831316">
+          <ele>154.0</ele></trkpt>
+      <trkpt lat="35.001682" lon="128.831847">
+          <ele>141.0</ele></trkpt>
+      <trkpt lat="35.001629" lon="128.832403">
+          <ele>127.0</ele></trkpt>
+      <trkpt lat="35.001444" lon="128.832665">
+          <ele>116.0</ele></trkpt>
+      <trkpt lat="35.001234" lon="128.833216">
+          <ele>101.0</ele></trkpt>
+      <trkpt lat="35.00116" lon="128.833921">
+          <ele>97.0</ele></trkpt>
+      <trkpt lat="35.000929" lon="128.83429">
+          <ele>90.0</ele></trkpt>
+      <trkpt lat="35.000898" lon="128.834638">
+          <ele>87.0</ele></trkpt>
+      <trkpt lat="35.000617" lon="128.83514">
+          <ele>74.0</ele></trkpt>
+      <trkpt lat="35.00042" lon="128.835774">
+          <ele>58.0</ele></trkpt>
+      <trkpt lat="35.000313" lon="128.836528">
+          <ele>27.0</ele></trkpt>
+      <trkpt lat="35.000379" lon="128.836812">
+          <ele>23.0</ele></trkpt>
+      <trkpt lat="35.000653" lon="128.83708">
+          <ele>33.0</ele></trkpt>
+      <trkpt lat="35.000715" lon="128.837515">
+          <ele>29.0</ele></trkpt>
+      <trkpt lat="35.000877" lon="128.837647">
+          <ele>30.0</ele></trkpt>
+      <trkpt lat="35.001325" lon="128.83786">
+          <ele>38.0</ele></trkpt>
+      <trkpt lat="35.001634" lon="128.837701">
+          <ele>49.0</ele></trkpt>
+      <trkpt lat="35.001841" lon="128.837888">
+          <ele>48.0</ele></trkpt>
+      <trkpt lat="35.002117" lon="128.837944">
+          <ele>56.0</ele></trkpt>
+      <trkpt lat="35.002314" lon="128.837626">
+          <ele>76.0</ele></trkpt>
+      <trkpt lat="35.002517" lon="128.837613">
+          <ele>75.0</ele></trkpt>
+      <trkpt lat="35.003108" lon="128.83814">
+          <ele>50.0</ele></trkpt>
+      <trkpt lat="35.003791" lon="128.838236">
+          <ele>59.0</ele></trkpt>
+      <trkpt lat="35.004231" lon="128.838885">
+          <ele>56.0</ele></trkpt>
+      <trkpt lat="35.004818" lon="128.838882">
+          <ele>79.0</ele></trkpt>
+      <trkpt lat="35.004926" lon="128.83907">
+          <ele>71.0</ele></trkpt>
+      <trkpt lat="35.005161" lon="128.83923">
+          <ele>70.0</ele></trkpt>
+      <trkpt lat="35.005599" lon="128.8392">
+          <ele>88.0</ele></trkpt>
+      <trkpt lat="35.005744" lon="128.839365">
+          <ele>85.0</ele></trkpt>
+      <trkpt lat="35.005759" lon="128.839804">
+          <ele>67.0</ele></trkpt>
+      <trkpt lat="35.006106" lon="128.839792">
+          <ele>78.0</ele></trkpt>
+      <trkpt lat="35.006289" lon="128.839544">
+          <ele>86.0</ele></trkpt>
+      <trkpt lat="35.006539" lon="128.837855">
+          <ele>129.0</ele></trkpt>
+      <trkpt lat="35.006999" lon="128.837607">
+          <ele>128.0</ele></trkpt>
+      <trkpt lat="35.00731" lon="128.83715">
+          <ele>123.0</ele></trkpt>
+      <trkpt lat="35.007271" lon="128.836235">
+          <ele>149.0</ele></trkpt>
+      <trkpt lat="35.007432" lon="128.836112">
+          <ele>144.0</ele></trkpt>
+      <trkpt lat="35.007849" lon="128.83618">
+          <ele>117.0</ele></trkpt>
+      <trkpt lat="35.008188" lon="128.836054">
+          <ele>98.0</ele></trkpt>
+      <trkpt lat="35.00811" lon="128.835363">
+          <ele>118.0</ele></trkpt>
+      <trkpt lat="35.008515" lon="128.834901">
+          <ele>108.0</ele></trkpt>
+      <trkpt lat="35.008854" lon="128.834774">
+          <ele>88.0</ele></trkpt>
+      <trkpt lat="35.009241" lon="128.834423">
+          <ele>76.0</ele></trkpt>
+      <trkpt lat="35.010128" lon="128.834142">
+          <ele>43.0</ele></trkpt>
+      <trkpt lat="35.010514" lon="128.83385">
+          <ele>32.0</ele></trkpt>
+      <trkpt lat="35.010696" lon="128.833811">
+          <ele>26.0</ele></trkpt>
+      <trkpt lat="35.010793" lon="128.833629">
+          <ele>29.0</ele></trkpt>
+      <trkpt lat="35.010978" lon="128.83354">
+          <ele>25.0</ele></trkpt>
+      <trkpt lat="35.0113" lon="128.833758">
+          <ele>17.0</ele></trkpt>
+      <trkpt lat="35.011413" lon="128.833748">
+          <ele>16.0</ele></trkpt>
+      <trkpt lat="35.011441" lon="128.833629">
+          <ele>18.0</ele></trkpt>
+      <trkpt lat="35.011593" lon="128.833613">
+          <ele>15.0</ele></trkpt>
+      <trkpt lat="35.012011" lon="128.833742">
+          <ele>8.0</ele></trkpt>
+      <trkpt lat="35.012146" lon="128.834217">
+          <ele>4.0</ele></trkpt>
+      <trkpt lat="35.012327" lon="128.834346">
+          <ele>1.0</ele></trkpt>
+      <trkpt lat="35.012994" lon="128.834486">
+          <ele>0.0</ele></trkpt>
+      <trkpt lat="35.013137" lon="128.834386">
+          <ele>4.0</ele></trkpt>
+      <trkpt lat="35.012985" lon="128.83426">
+          <ele>4.0</ele></trkpt>
+      <trkpt lat="35.01312" lon="128.833965">
+          <ele>11.0</ele></trkpt>
+      <trkpt lat="35.013406" lon="128.833933">
+          <ele>18.0</ele></trkpt>
+      <trkpt lat="35.013463" lon="128.833842">
+          <ele>20.0</ele></trkpt>
+      <trkpt lat="35.013284" lon="128.833513">
+          <ele>20.0</ele></trkpt>
+      <trkpt lat="35.012854" lon="128.833205">
+          <ele>17.0</ele></trkpt>
+      <trkpt lat="35.012662" lon="128.832893">
+          <ele>16.0</ele></trkpt>
+      <trkpt lat="35.012563" lon="128.832502">
+          <ele>16.0</ele></trkpt>
+      <trkpt lat="35.012558" lon="128.831587">
+          <ele>13.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Guksubong Course (3/14)</name>
+    <trkseg>
+      <trkpt lat="35.003642" lon="128.824439">
+          <ele>30.0</ele></trkpt>
+      <trkpt lat="35.003282" lon="128.823296">
+          <ele>60.0</ele></trkpt>
+      <trkpt lat="35.003131" lon="128.822515">
+          <ele>67.0</ele></trkpt>
+      <trkpt lat="35.002824" lon="128.822233">
+          <ele>61.0</ele></trkpt>
+      <trkpt lat="35.002525" lon="128.82146">
+          <ele>61.0</ele></trkpt>
+      <trkpt lat="35.002261" lon="128.821116">
+          <ele>54.0</ele></trkpt>
+      <trkpt lat="35.002555" lon="128.820921">
+          <ele>62.0</ele></trkpt>
+      <trkpt lat="35.002882" lon="128.820519">
+          <ele>64.0</ele></trkpt>
+      <trkpt lat="35.002836" lon="128.819985">
+          <ele>54.0</ele></trkpt>
+      <trkpt lat="35.002653" lon="128.819803">
+          <ele>39.0</ele></trkpt>
+      <trkpt lat="35.002705" lon="128.8197">
+          <ele>38.0</ele></trkpt>
+      <trkpt lat="35.003128" lon="128.819494">
+          <ele>35.0</ele></trkpt>
+      <trkpt lat="35.003689" lon="128.819609">
+          <ele>22.0</ele></trkpt>
+      <trkpt lat="35.003728" lon="128.819823">
+          <ele>23.0</ele></trkpt>
+      <trkpt lat="35.004044" lon="128.820327">
+          <ele>14.0</ele></trkpt>
+      <trkpt lat="35.00404" lon="128.821407">
+          <ele>17.0</ele></trkpt>
+      <trkpt lat="35.004396" lon="128.821782">
+          <ele>13.0</ele></trkpt>
+      <trkpt lat="35.004486" lon="128.822019">
+          <ele>11.0</ele></trkpt>
+      <trkpt lat="35.004362" lon="128.822601">
+          <ele>13.0</ele></trkpt>
+      <trkpt lat="35.00451" lon="128.822692">
+          <ele>9.0</ele></trkpt>
+      <trkpt lat="35.004594" lon="128.822923">
+          <ele>7.0</ele></trkpt>
+      <trkpt lat="35.004644" lon="128.823445">
+          <ele>10.0</ele></trkpt>
+      <trkpt lat="35.005092" lon="128.823966">
+          <ele>6.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Guksubong Course (4/14)</name>
+    <trkseg>
+      <trkpt lat="35.003642" lon="128.824439">
+          <ele>30.0</ele></trkpt>
+      <trkpt lat="35.003742" lon="128.824463">
+          <ele>27.0</ele></trkpt>
+      <trkpt lat="35.004093" lon="128.824254">
+          <ele>19.0</ele></trkpt>
+      <trkpt lat="35.004231" lon="128.823962">
+          <ele>18.0</ele></trkpt>
+      <trkpt lat="35.004701" lon="128.824106">
+          <ele>9.0</ele></trkpt>
+      <trkpt lat="35.005092" lon="128.823966">
+          <ele>6.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Guksubong Course (5/14)</name>
+    <trkseg>
+      <trkpt lat="35.003565" lon="128.83152">
+          <ele>228.0</ele></trkpt>
+      <trkpt lat="35.002897" lon="128.831045">
+          <ele>208.0</ele></trkpt>
+      <trkpt lat="35.002344" lon="128.830903">
+          <ele>177.0</ele></trkpt>
+      <trkpt lat="35.001795" lon="128.831156">
+          <ele>157.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Guksubong Course (6/14)</name>
+    <trkseg>
+      <trkpt lat="35.003565" lon="128.83152">
+          <ele>228.0</ele></trkpt>
+      <trkpt lat="35.003827" lon="128.831528">
+          <ele>222.0</ele></trkpt>
+      <trkpt lat="35.003933" lon="128.831181">
+          <ele>214.0</ele></trkpt>
+      <trkpt lat="35.004348" lon="128.830693">
+          <ele>189.0</ele></trkpt>
+      <trkpt lat="35.004453" lon="128.830896">
+          <ele>184.0</ele></trkpt>
+      <trkpt lat="35.004687" lon="128.830889">
+          <ele>164.0</ele></trkpt>
+      <trkpt lat="35.004889" lon="128.83065">
+          <ele>152.0</ele></trkpt>
+      <trkpt lat="35.004761" lon="128.830475">
+          <ele>160.0</ele></trkpt>
+      <trkpt lat="35.005133" lon="128.830451">
+          <ele>136.0</ele></trkpt>
+      <trkpt lat="35.005104" lon="128.830135">
+          <ele>131.0</ele></trkpt>
+      <trkpt lat="35.00524" lon="128.830045">
+          <ele>122.0</ele></trkpt>
+      <trkpt lat="35.004745" lon="128.829682">
+          <ele>127.0</ele></trkpt>
+      <trkpt lat="35.00472" lon="128.829167">
+          <ele>100.0</ele></trkpt>
+      <trkpt lat="35.00486" lon="128.828598">
+          <ele>85.0</ele></trkpt>
+      <trkpt lat="35.004719" lon="128.828583">
+          <ele>86.0</ele></trkpt>
+      <trkpt lat="35.004859" lon="128.828151">
+          <ele>75.0</ele></trkpt>
+      <trkpt lat="35.004911" lon="128.82765">
+          <ele>56.0</ele></trkpt>
+      <trkpt lat="35.004748" lon="128.827189">
+          <ele>38.0</ele></trkpt>
+      <trkpt lat="35.005" lon="128.827126">
+          <ele>37.0</ele></trkpt>
+      <trkpt lat="35.005203" lon="128.827177">
+          <ele>36.0</ele></trkpt>
+      <trkpt lat="35.005111" lon="128.826868">
+          <ele>29.0</ele></trkpt>
+      <trkpt lat="35.005378" lon="128.826958">
+          <ele>28.0</ele></trkpt>
+      <trkpt lat="35.005321" lon="128.826792">
+          <ele>26.0</ele></trkpt>
+      <trkpt lat="35.005404" lon="128.826641">
+          <ele>23.0</ele></trkpt>
+      <trkpt lat="35.005439" lon="128.82626">
+          <ele>18.0</ele></trkpt>
+      <trkpt lat="35.005641" lon="128.825814">
+          <ele>11.0</ele></trkpt>
+      <trkpt lat="35.005723" lon="128.825757">
+          <ele>10.0</ele></trkpt>
+      <trkpt lat="35.005904" lon="128.825814">
+          <ele>11.0</ele></trkpt>
+      <trkpt lat="35.005696" lon="128.825325">
+          <ele>8.0</ele></trkpt>
+      <trkpt lat="35.005645" lon="128.824328">
+          <ele>6.0</ele></trkpt>
+      <trkpt lat="35.005554" lon="128.824005">
+          <ele>5.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Guksubong Course (7/14)</name>
+    <trkseg>
+      <trkpt lat="35.003565" lon="128.83152">
+          <ele>228.0</ele></trkpt>
+      <trkpt lat="35.003843" lon="128.831705">
+          <ele>221.0</ele></trkpt>
+      <trkpt lat="35.003924" lon="128.832287">
+          <ele>219.0</ele></trkpt>
+      <trkpt lat="35.003886" lon="128.832504">
+          <ele>223.0</ele></trkpt>
+      <trkpt lat="35.004104" lon="128.833185">
+          <ele>227.0</ele></trkpt>
+      <trkpt lat="35.004077" lon="128.833666">
+          <ele>240.0</ele></trkpt>
+      <trkpt lat="35.004298" lon="128.834241">
+          <ele>245.0</ele></trkpt>
+      <trkpt lat="35.004655" lon="128.834292">
+          <ele>246.0</ele></trkpt>
+      <trkpt lat="35.005086" lon="128.834603">
+          <ele>244.0</ele></trkpt>
+      <trkpt lat="35.005755" lon="128.8349">
+          <ele>244.0</ele></trkpt>
+      <trkpt lat="35.006247" lon="128.834619">
+          <ele>237.0</ele></trkpt>
+      <trkpt lat="35.006344" lon="128.834447">
+          <ele>238.0</ele></trkpt>
+      <trkpt lat="35.006178" lon="128.83426">
+          <ele>239.0</ele></trkpt>
+      <trkpt lat="35.006272" lon="128.833925">
+          <ele>232.0</ele></trkpt>
+      <trkpt lat="35.005951" lon="128.833969">
+          <ele>229.0</ele></trkpt>
+      <trkpt lat="35.005844" lon="128.833764">
+          <ele>220.0</ele></trkpt>
+      <trkpt lat="35.006049" lon="128.833594">
+          <ele>215.0</ele></trkpt>
+      <trkpt lat="35.006227" lon="128.833067">
+          <ele>193.0</ele></trkpt>
+      <trkpt lat="35.00646" lon="128.832769">
+          <ele>183.0</ele></trkpt>
+      <trkpt lat="35.00676" lon="128.832547">
+          <ele>172.0</ele></trkpt>
+      <trkpt lat="35.007057" lon="128.831996">
+          <ele>157.0</ele></trkpt>
+      <trkpt lat="35.007293" lon="128.831884">
+          <ele>151.0</ele></trkpt>
+      <trkpt lat="35.007349" lon="128.831676">
+          <ele>145.0</ele></trkpt>
+      <trkpt lat="35.007719" lon="128.831174">
+          <ele>121.0</ele></trkpt>
+      <trkpt lat="35.007977" lon="128.829658">
+          <ele>95.0</ele></trkpt>
+      <trkpt lat="35.008233" lon="128.829053">
+          <ele>84.0</ele></trkpt>
+      <trkpt lat="35.008533" lon="128.827453">
+          <ele>52.0</ele></trkpt>
+      <trkpt lat="35.008708" lon="128.827184">
+          <ele>51.0</ele></trkpt>
+      <trkpt lat="35.009185" lon="128.827261">
+          <ele>38.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Guksubong Course (8/14)</name>
+    <trkseg>
+      <trkpt lat="35.005554" lon="128.824005">
+          <ele>5.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Guksubong Course (9/14)</name>
+    <trkseg>
+      <trkpt lat="35.006513" lon="128.824008">
+          <ele>5.0</ele></trkpt>
+      <trkpt lat="35.007115" lon="128.823876">
+          <ele>6.0</ele></trkpt>
+      <trkpt lat="35.006991" lon="128.82445">
+          <ele>6.0</ele></trkpt>
+      <trkpt lat="35.006758" lon="128.824987">
+          <ele>7.0</ele></trkpt>
+      <trkpt lat="35.006778" lon="128.825086">
+          <ele>8.0</ele></trkpt>
+      <trkpt lat="35.007059" lon="128.825469">
+          <ele>14.0</ele></trkpt>
+      <trkpt lat="35.007619" lon="128.825925">
+          <ele>31.0</ele></trkpt>
+      <trkpt lat="35.007728" lon="128.826367">
+          <ele>37.0</ele></trkpt>
+      <trkpt lat="35.007807" lon="128.826434">
+          <ele>39.0</ele></trkpt>
+      <trkpt lat="35.007991" lon="128.826144">
+          <ele>42.0</ele></trkpt>
+      <trkpt lat="35.008045" lon="128.825504">
+          <ele>48.0</ele></trkpt>
+      <trkpt lat="35.00811" lon="128.825411">
+          <ele>49.0</ele></trkpt>
+      <trkpt lat="35.008473" lon="128.826427">
+          <ele>52.0</ele></trkpt>
+      <trkpt lat="35.008773" lon="128.826808">
+          <ele>51.0</ele></trkpt>
+      <trkpt lat="35.009096" lon="128.827042">
+          <ele>40.0</ele></trkpt>
+      <trkpt lat="35.009185" lon="128.827261">
+          <ele>38.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Guksubong Course (10/14)</name>
+    <trkseg>
+      <trkpt lat="35.009304" lon="128.827456">
+          <ele>35.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Guksubong Course (11/14)</name>
+    <trkseg>
+      <trkpt lat="35.009902" lon="128.828683">
+          <ele>28.0</ele></trkpt>
+      <trkpt lat="35.01123" lon="128.830165">
+          <ele>19.0</ele></trkpt>
+      <trkpt lat="35.011313" lon="128.830341">
+          <ele>20.0</ele></trkpt>
+      <trkpt lat="35.011408" lon="128.829897">
+          <ele>12.0</ele></trkpt>
+      <trkpt lat="35.011894" lon="128.829546">
+          <ele>8.0</ele></trkpt>
+      <trkpt lat="35.012021" lon="128.829931">
+          <ele>7.0</ele></trkpt>
+      <trkpt lat="35.012189" lon="128.830107">
+          <ele>8.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Guksubong Course (12/14)</name>
+    <trkseg>
+      <trkpt lat="35.012189" lon="128.830107">
+          <ele>8.0</ele></trkpt>
+      <trkpt lat="35.012234" lon="128.830086">
+          <ele>8.0</ele></trkpt>
+      <trkpt lat="35.012029" lon="128.829461">
+          <ele>8.0</ele></trkpt>
+      <trkpt lat="35.012005" lon="128.828826">
+          <ele>5.0</ele></trkpt>
+      <trkpt lat="35.012048" lon="128.828588">
+          <ele>6.0</ele></trkpt>
+      <trkpt lat="35.012212" lon="128.828406">
+          <ele>6.0</ele></trkpt>
+      <trkpt lat="35.012223" lon="128.827491">
+          <ele>6.0</ele></trkpt>
+      <trkpt lat="35.011198" lon="128.827083">
+          <ele>7.0</ele></trkpt>
+      <trkpt lat="35.011038" lon="128.82727">
+          <ele>9.0</ele></trkpt>
+      <trkpt lat="35.010675" lon="128.827346">
+          <ele>11.0</ele></trkpt>
+      <trkpt lat="35.010261" lon="128.827246">
+          <ele>12.0</ele></trkpt>
+      <trkpt lat="35.01018" lon="128.827461">
+          <ele>13.0</ele></trkpt>
+      <trkpt lat="35.010095" lon="128.827497">
+          <ele>15.0</ele></trkpt>
+      <trkpt lat="35.009304" lon="128.827456">
+          <ele>35.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Guksubong Course (13/14)</name>
+    <trkseg>
+      <trkpt lat="35.012558" lon="128.831587">
+          <ele>13.0</ele></trkpt>
+      <trkpt lat="35.012668" lon="128.831233">
+          <ele>11.0</ele></trkpt>
+      <trkpt lat="35.012635" lon="128.830807">
+          <ele>11.0</ele></trkpt>
+      <trkpt lat="35.012189" lon="128.830107">
+          <ele>8.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Guksubong Course (14/14)</name>
+    <trkseg>
+      <trkpt lat="35.022756" lon="128.82144">
+          <ele>119.0</ele></trkpt>
+      <trkpt lat="35.020874" lon="128.823522">
+          <ele>106.0</ele></trkpt>
+      <trkpt lat="35.020561" lon="128.823599">
+          <ele>107.0</ele></trkpt>
+      <trkpt lat="35.020069" lon="128.82353">
+          <ele>95.0</ele></trkpt>
+      <trkpt lat="35.019673" lon="128.823787">
+          <ele>88.0</ele></trkpt>
+      <trkpt lat="35.019363" lon="128.824312">
+          <ele>80.0</ele></trkpt>
+      <trkpt lat="35.019064" lon="128.825051">
+          <ele>69.0</ele></trkpt>
+      <trkpt lat="35.018782" lon="128.825363">
+          <ele>61.0</ele></trkpt>
+      <trkpt lat="35.017488" lon="128.82561">
+          <ele>56.0</ele></trkpt>
+      <trkpt lat="35.016976" lon="128.825956">
+          <ele>65.0</ele></trkpt>
+      <trkpt lat="35.016668" lon="128.825766">
+          <ele>53.0</ele></trkpt>
+      <trkpt lat="35.016564" lon="128.825784">
+          <ele>54.0</ele></trkpt>
+      <trkpt lat="35.016473" lon="128.825823">
+          <ele>55.0</ele></trkpt>
+      <trkpt lat="35.016248" lon="128.826209">
+          <ele>62.0</ele></trkpt>
+      <trkpt lat="35.015664" lon="128.826167">
+          <ele>46.0</ele></trkpt>
+      <trkpt lat="35.014999" lon="128.82673">
+          <ele>41.0</ele></trkpt>
+      <trkpt lat="35.014473" lon="128.827483">
+          <ele>29.0</ele></trkpt>
+      <trkpt lat="35.013791" lon="128.828749">
+          <ele>25.0</ele></trkpt>
+      <trkpt lat="35.013208" lon="128.831276">
+          <ele>22.0</ele></trkpt>
+      <trkpt lat="35.012916" lon="128.831608">
+          <ele>17.0</ele></trkpt>
+      <trkpt lat="35.012558" lon="128.831587">
+          <ele>13.0</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+      <name>Hwangryeongsan Course</name></metadata>
+  <trk>
+    <name>Hwangryeongsan Course (1/3)</name>
+    <trkseg>
+      <trkpt lat="35.153674" lon="129.071716">
+          <ele>68.0</ele></trkpt>
+      <trkpt lat="35.15281" lon="129.072496">
+          <ele>85.0</ele></trkpt>
+      <trkpt lat="35.151985" lon="129.073049">
+          <ele>96.0</ele></trkpt>
+      <trkpt lat="35.150117" lon="129.073493">
+          <ele>112.0</ele></trkpt>
+      <trkpt lat="35.150269" lon="129.074163">
+          <ele>137.0</ele></trkpt>
+      <trkpt lat="35.150684" lon="129.074966">
+          <ele>159.0</ele></trkpt>
+      <trkpt lat="35.150868" lon="129.075781">
+          <ele>179.0</ele></trkpt>
+      <trkpt lat="35.150573" lon="129.076463">
+          <ele>211.0</ele></trkpt>
+      <trkpt lat="35.150302" lon="129.076742">
+          <ele>223.0</ele></trkpt>
+      <trkpt lat="35.149237" lon="129.077495">
+          <ele>260.0</ele></trkpt>
+      <trkpt lat="35.149143" lon="129.077669">
+          <ele>259.0</ele></trkpt>
+      <trkpt lat="35.149278" lon="129.077813">
+          <ele>269.0</ele></trkpt>
+      <trkpt lat="35.149478" lon="129.077657">
+          <ele>276.0</ele></trkpt>
+      <trkpt lat="35.149621" lon="129.077881">
+          <ele>289.0</ele></trkpt>
+      <trkpt lat="35.149598" lon="129.077988">
+          <ele>288.0</ele></trkpt>
+      <trkpt lat="35.149833" lon="129.078021">
+          <ele>296.0</ele></trkpt>
+      <trkpt lat="35.149909" lon="129.078201">
+          <ele>299.0</ele></trkpt>
+      <trkpt lat="35.150101" lon="129.078201">
+          <ele>303.0</ele></trkpt>
+      <trkpt lat="35.150339" lon="129.078355">
+          <ele>309.0</ele></trkpt>
+      <trkpt lat="35.150811" lon="129.078783">
+          <ele>309.0</ele></trkpt>
+      <trkpt lat="35.151125" lon="129.079199">
+          <ele>309.0</ele></trkpt>
+      <trkpt lat="35.151423" lon="129.0789">
+          <ele>318.0</ele></trkpt>
+      <trkpt lat="35.151736" lon="129.078802">
+          <ele>330.0</ele></trkpt>
+      <trkpt lat="35.151966" lon="129.078394">
+          <ele>322.0</ele></trkpt>
+      <trkpt lat="35.152118" lon="129.078279">
+          <ele>317.0</ele></trkpt>
+      <trkpt lat="35.152416" lon="129.078312">
+          <ele>313.0</ele></trkpt>
+      <trkpt lat="35.152825" lon="129.07856">
+          <ele>317.0</ele></trkpt>
+      <trkpt lat="35.153038" lon="129.078806">
+          <ele>325.0</ele></trkpt>
+      <trkpt lat="35.153402" lon="129.07844">
+          <ele>304.0</ele></trkpt>
+      <trkpt lat="35.153692" lon="129.078469">
+          <ele>303.0</ele></trkpt>
+      <trkpt lat="35.153896" lon="129.078802">
+          <ele>325.0</ele></trkpt>
+      <trkpt lat="35.154931" lon="129.079158">
+          <ele>307.0</ele></trkpt>
+      <trkpt lat="35.155077" lon="129.079304">
+          <ele>305.0</ele></trkpt>
+      <trkpt lat="35.155274" lon="129.079714">
+          <ele>316.0</ele></trkpt>
+      <trkpt lat="35.155351" lon="129.080106">
+          <ele>328.0</ele></trkpt>
+      <trkpt lat="35.155323" lon="129.080377">
+          <ele>338.0</ele></trkpt>
+      <trkpt lat="35.155181" lon="129.080677">
+          <ele>351.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Hwangryeongsan Course (2/3)</name>
+    <trkseg>
+      <trkpt lat="35.156909" lon="129.082203">
+          <ele>399.0</ele></trkpt>
+      <trkpt lat="35.156736" lon="129.082108">
+          <ele>399.0</ele></trkpt>
+      <trkpt lat="35.156392" lon="129.08213">
+          <ele>390.0</ele></trkpt>
+      <trkpt lat="35.15577" lon="129.081901">
+          <ele>380.0</ele></trkpt>
+      <trkpt lat="35.155462" lon="129.081894">
+          <ele>375.0</ele></trkpt>
+      <trkpt lat="35.155256" lon="129.081512">
+          <ele>370.0</ele></trkpt>
+      <trkpt lat="35.155067" lon="129.081379">
+          <ele>369.0</ele></trkpt>
+      <trkpt lat="35.154855" lon="129.081042">
+          <ele>360.0</ele></trkpt>
+      <trkpt lat="35.154079" lon="129.081339">
+          <ele>330.0</ele></trkpt>
+      <trkpt lat="35.153874" lon="129.081536">
+          <ele>321.0</ele></trkpt>
+      <trkpt lat="35.153822" lon="129.081754">
+          <ele>317.0</ele></trkpt>
+      <trkpt lat="35.152875" lon="129.082269">
+          <ele>280.0</ele></trkpt>
+      <trkpt lat="35.152634" lon="129.082157">
+          <ele>272.0</ele></trkpt>
+      <trkpt lat="35.151633" lon="129.082014">
+          <ele>252.0</ele></trkpt>
+      <trkpt lat="35.150405" lon="129.082431">
+          <ele>238.0</ele></trkpt>
+      <trkpt lat="35.150147" lon="129.082432">
+          <ele>231.0</ele></trkpt>
+      <trkpt lat="35.149909" lon="129.082522">
+          <ele>225.0</ele></trkpt>
+      <trkpt lat="35.14982" lon="129.082646">
+          <ele>226.0</ele></trkpt>
+      <trkpt lat="35.149759" lon="129.082569">
+          <ele>226.0</ele></trkpt>
+      <trkpt lat="35.149518" lon="129.082705">
+          <ele>230.0</ele></trkpt>
+      <trkpt lat="35.14908" lon="129.082667">
+          <ele>229.0</ele></trkpt>
+      <trkpt lat="35.148403" lon="129.082797">
+          <ele>226.0</ele></trkpt>
+      <trkpt lat="35.147978" lon="129.083477">
+          <ele>207.0</ele></trkpt>
+      <trkpt lat="35.147414" lon="129.083598">
+          <ele>169.0</ele></trkpt>
+      <trkpt lat="35.146895" lon="129.08388">
+          <ele>164.0</ele></trkpt>
+      <trkpt lat="35.147327" lon="129.084401">
+          <ele>155.0</ele></trkpt>
+      <trkpt lat="35.147127" lon="129.084695">
+          <ele>145.0</ele></trkpt>
+      <trkpt lat="35.146869" lon="129.085366">
+          <ele>121.0</ele></trkpt>
+      <trkpt lat="35.146513" lon="129.085842">
+          <ele>89.0</ele></trkpt>
+      <trkpt lat="35.146353" lon="129.08647">
+          <ele>77.0</ele></trkpt>
+      <trkpt lat="35.145966" lon="129.087033">
+          <ele>74.0</ele></trkpt>
+      <trkpt lat="35.145486" lon="129.087528">
+          <ele>73.0</ele></trkpt>
+      <trkpt lat="35.144524" lon="129.088173">
+          <ele>51.0</ele></trkpt>
+      <trkpt lat="35.144043" lon="129.088215">
+          <ele>36.0</ele></trkpt>
+      <trkpt lat="35.143562" lon="129.088447">
+          <ele>45.0</ele></trkpt>
+      <trkpt lat="35.143469" lon="129.088454">
+          <ele>48.0</ele></trkpt>
+      <trkpt lat="35.143108" lon="129.088051">
+          <ele>51.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Hwangryeongsan Course (3/3)</name>
+    <trkseg>
+      <trkpt lat="35.156909" lon="129.082203">
+          <ele>399.0</ele></trkpt>
+      <trkpt lat="35.157258" lon="129.082197">
+          <ele>402.0</ele></trkpt>
+      <trkpt lat="35.157411" lon="129.081788">
+          <ele>407.0</ele></trkpt>
+      <trkpt lat="35.157203" lon="129.081696">
+          <ele>408.0</ele></trkpt>
+      <trkpt lat="35.157124" lon="129.081759">
+          <ele>407.0</ele></trkpt>
+      <trkpt lat="35.156909" lon="129.082203">
+          <ele>399.0</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

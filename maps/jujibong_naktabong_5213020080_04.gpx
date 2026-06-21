@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+      <name>Jujibong Naktabong Course</name></metadata>
+  <trk>
+    <name>Jujibong Naktabong Course</name>
+    <trkseg>
+      <trkpt lat="35.202034" lon="129.035736">
+          <ele>177.0</ele></trkpt>
+      <trkpt lat="35.201931" lon="129.036199">
+          <ele>182.0</ele></trkpt>
+      <trkpt lat="35.202015" lon="129.03657">
+          <ele>186.0</ele></trkpt>
+      <trkpt lat="35.202312" lon="129.036728">
+          <ele>181.0</ele></trkpt>
+      <trkpt lat="35.202623" lon="129.036669">
+          <ele>175.0</ele></trkpt>
+      <trkpt lat="35.202953" lon="129.03695">
+          <ele>177.0</ele></trkpt>
+      <trkpt lat="35.202531" lon="129.037317">
+          <ele>189.0</ele></trkpt>
+      <trkpt lat="35.202443" lon="129.037512">
+          <ele>195.0</ele></trkpt>
+      <trkpt lat="35.201747" lon="129.037674">
+          <ele>202.0</ele></trkpt>
+      <trkpt lat="35.201236" lon="129.037672">
+          <ele>216.0</ele></trkpt>
+      <trkpt lat="35.201058" lon="129.037926">
+          <ele>229.0</ele></trkpt>
+      <trkpt lat="35.200903" lon="129.038364">
+          <ele>238.0</ele></trkpt>
+      <trkpt lat="35.200368" lon="129.038987">
+          <ele>257.0</ele></trkpt>
+      <trkpt lat="35.200268" lon="129.038868">
+          <ele>257.0</ele></trkpt>
+      <trkpt lat="35.199579" lon="129.03869">
+          <ele>263.0</ele></trkpt>
+      <trkpt lat="35.19891" lon="129.038301">
+          <ele>273.0</ele></trkpt>
+      <trkpt lat="35.198205" lon="129.037343">
+          <ele>284.0</ele></trkpt>
+      <trkpt lat="35.198187" lon="129.036933">
+          <ele>270.0</ele></trkpt>
+      <trkpt lat="35.198274" lon="129.036366">
+          <ele>268.0</ele></trkpt>
+      <trkpt lat="35.198413" lon="129.036226">
+          <ele>267.0</ele></trkpt>
+      <trkpt lat="35.198489" lon="129.035865">
+          <ele>270.0</ele></trkpt>
+      <trkpt lat="35.198296" lon="129.035648">
+          <ele>278.0</ele></trkpt>
+      <trkpt lat="35.198176" lon="129.035339">
+          <ele>284.0</ele></trkpt>
+      <trkpt lat="35.198016" lon="129.034463">
+          <ele>308.0</ele></trkpt>
+      <trkpt lat="35.197672" lon="129.033859">
+          <ele>334.0</ele></trkpt>
+      <trkpt lat="35.19693" lon="129.033512">
+          <ele>369.0</ele></trkpt>
+      <trkpt lat="35.196452" lon="129.033124">
+          <ele>386.0</ele></trkpt>
+      <trkpt lat="35.195896" lon="129.032819">
+          <ele>408.0</ele></trkpt>
+      <trkpt lat="35.195803" lon="129.03253">
+          <ele>418.0</ele></trkpt>
+      <trkpt lat="35.19518" lon="129.031931">
+          <ele>440.0</ele></trkpt>
+      <trkpt lat="35.195092" lon="129.031475">
+          <ele>457.0</ele></trkpt>
+      <trkpt lat="35.195133" lon="129.030988">
+          <ele>472.0</ele></trkpt>
+      <trkpt lat="35.194886" lon="129.02988">
+          <ele>512.0</ele></trkpt>
+      <trkpt lat="35.194727" lon="129.029629">
+          <ele>526.0</ele></trkpt>
+      <trkpt lat="35.1941" lon="129.029073">
+          <ele>569.0</ele></trkpt>
+      <trkpt lat="35.194167" lon="129.028866">
+          <ele>575.0</ele></trkpt>
+      <trkpt lat="35.19409" lon="129.028564">
+          <ele>581.0</ele></trkpt>
+      <trkpt lat="35.193537" lon="129.027123">
+          <ele>597.0</ele></trkpt>
+      <trkpt lat="35.193456" lon="129.026606">
+          <ele>598.0</ele></trkpt>
+      <trkpt lat="35.193509" lon="129.025839">
+          <ele>597.0</ele></trkpt>
+      <trkpt lat="35.1934" lon="129.025633">
+          <ele>596.0</ele></trkpt>
+      <trkpt lat="35.193758" lon="129.025504">
+          <ele>591.0</ele></trkpt>
+      <trkpt lat="35.194277" lon="129.025459">
+          <ele>585.0</ele></trkpt>
+      <trkpt lat="35.194906" lon="129.025212">
+          <ele>575.0</ele></trkpt>
+      <trkpt lat="35.195579" lon="129.024787">
+          <ele>555.0</ele></trkpt>
+      <trkpt lat="35.196151" lon="129.024292">
+          <ele>550.0</ele></trkpt>
+      <trkpt lat="35.196545" lon="129.024262">
+          <ele>542.0</ele></trkpt>
+      <trkpt lat="35.197007" lon="129.023779">
+          <ele>536.0</ele></trkpt>
+      <trkpt lat="35.197596" lon="129.023465">
+          <ele>549.0</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

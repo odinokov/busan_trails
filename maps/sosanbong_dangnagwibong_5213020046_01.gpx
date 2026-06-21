@@ -1,0 +1,463 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+      <name>Sosanbong Dangnagwibong Course</name></metadata>
+  <trk>
+    <name>Sosanbong Dangnagwibong Course (1/8)</name>
+    <trkseg>
+      <trkpt lat="35.312351" lon="129.146864">
+          <ele>524.0</ele></trkpt>
+      <trkpt lat="35.312227" lon="129.147245">
+          <ele>533.0</ele></trkpt>
+      <trkpt lat="35.312275" lon="129.147442">
+          <ele>538.0</ele></trkpt>
+      <trkpt lat="35.313037" lon="129.148194">
+          <ele>545.0</ele></trkpt>
+      <trkpt lat="35.313333" lon="129.148645">
+          <ele>552.0</ele></trkpt>
+      <trkpt lat="35.31343" lon="129.148974">
+          <ele>555.0</ele></trkpt>
+      <trkpt lat="35.313443" lon="129.149382">
+          <ele>557.0</ele></trkpt>
+      <trkpt lat="35.313347" lon="129.149968">
+          <ele>555.0</ele></trkpt>
+      <trkpt lat="35.313185" lon="129.150337">
+          <ele>556.0</ele></trkpt>
+      <trkpt lat="35.312968" lon="129.150546">
+          <ele>561.0</ele></trkpt>
+      <trkpt lat="35.31287" lon="129.150539">
+          <ele>564.0</ele></trkpt>
+      <trkpt lat="35.312924" lon="129.150959">
+          <ele>559.0</ele></trkpt>
+      <trkpt lat="35.312811" lon="129.151434">
+          <ele>558.0</ele></trkpt>
+      <trkpt lat="35.312899" lon="129.151875">
+          <ele>554.0</ele></trkpt>
+      <trkpt lat="35.313" lon="129.152044">
+          <ele>553.0</ele></trkpt>
+      <trkpt lat="35.313575" lon="129.15263">
+          <ele>542.0</ele></trkpt>
+      <trkpt lat="35.313669" lon="129.153089">
+          <ele>536.0</ele></trkpt>
+      <trkpt lat="35.314032" lon="129.153495">
+          <ele>533.0</ele></trkpt>
+      <trkpt lat="35.31433" lon="129.153673">
+          <ele>541.0</ele></trkpt>
+      <trkpt lat="35.314356" lon="129.15378">
+          <ele>540.0</ele></trkpt>
+      <trkpt lat="35.314624" lon="129.153917">
+          <ele>540.0</ele></trkpt>
+      <trkpt lat="35.31532" lon="129.154154">
+          <ele>541.0</ele></trkpt>
+      <trkpt lat="35.315843" lon="129.154136">
+          <ele>524.0</ele></trkpt>
+      <trkpt lat="35.316476" lon="129.15436">
+          <ele>521.0</ele></trkpt>
+      <trkpt lat="35.316649" lon="129.1545">
+          <ele>521.0</ele></trkpt>
+      <trkpt lat="35.316936" lon="129.154461">
+          <ele>519.0</ele></trkpt>
+      <trkpt lat="35.317107" lon="129.154561">
+          <ele>512.0</ele></trkpt>
+      <trkpt lat="35.317517" lon="129.154577">
+          <ele>506.0</ele></trkpt>
+      <trkpt lat="35.317707" lon="129.15468">
+          <ele>510.0</ele></trkpt>
+      <trkpt lat="35.317716" lon="129.154774">
+          <ele>509.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Sosanbong Dangnagwibong Course (2/8)</name>
+    <trkseg>
+      <trkpt lat="35.312351" lon="129.146864">
+          <ele>524.0</ele></trkpt>
+      <trkpt lat="35.312374" lon="129.145979">
+          <ele>510.0</ele></trkpt>
+      <trkpt lat="35.312284" lon="129.145754">
+          <ele>507.0</ele></trkpt>
+      <trkpt lat="35.312327" lon="129.145529">
+          <ele>502.0</ele></trkpt>
+      <trkpt lat="35.312176" lon="129.145198">
+          <ele>504.0</ele></trkpt>
+      <trkpt lat="35.312199" lon="129.14499">
+          <ele>500.0</ele></trkpt>
+      <trkpt lat="35.312117" lon="129.144765">
+          <ele>489.0</ele></trkpt>
+      <trkpt lat="35.312149" lon="129.144351">
+          <ele>470.0</ele></trkpt>
+      <trkpt lat="35.311957" lon="129.14395">
+          <ele>466.0</ele></trkpt>
+      <trkpt lat="35.311723" lon="129.143735">
+          <ele>463.0</ele></trkpt>
+      <trkpt lat="35.311564" lon="129.143456">
+          <ele>462.0</ele></trkpt>
+      <trkpt lat="35.311376" lon="129.143045">
+          <ele>466.0</ele></trkpt>
+      <trkpt lat="35.311358" lon="129.142814">
+          <ele>464.0</ele></trkpt>
+      <trkpt lat="35.311515" lon="129.142369">
+          <ele>449.0</ele></trkpt>
+      <trkpt lat="35.311785" lon="129.14221">
+          <ele>439.0</ele></trkpt>
+      <trkpt lat="35.311899" lon="129.142033">
+          <ele>438.0</ele></trkpt>
+      <trkpt lat="35.3122" lon="129.14191">
+          <ele>432.0</ele></trkpt>
+      <trkpt lat="35.312363" lon="129.141649">
+          <ele>428.0</ele></trkpt>
+      <trkpt lat="35.312374" lon="129.141443">
+          <ele>426.0</ele></trkpt>
+      <trkpt lat="35.313002" lon="129.140845">
+          <ele>396.0</ele></trkpt>
+      <trkpt lat="35.313231" lon="129.140362">
+          <ele>401.0</ele></trkpt>
+      <trkpt lat="35.313617" lon="129.140268">
+          <ele>384.0</ele></trkpt>
+      <trkpt lat="35.313886" lon="129.140436">
+          <ele>375.0</ele></trkpt>
+      <trkpt lat="35.314173" lon="129.140401">
+          <ele>371.0</ele></trkpt>
+      <trkpt lat="35.314243" lon="129.140621">
+          <ele>365.0</ele></trkpt>
+      <trkpt lat="35.314452" lon="129.140777">
+          <ele>358.0</ele></trkpt>
+      <trkpt lat="35.314981" lon="129.140913">
+          <ele>337.0</ele></trkpt>
+      <trkpt lat="35.315324" lon="129.140906">
+          <ele>330.0</ele></trkpt>
+      <trkpt lat="35.315499" lon="129.141013">
+          <ele>318.0</ele></trkpt>
+      <trkpt lat="35.316333" lon="129.140795">
+          <ele>296.0</ele></trkpt>
+      <trkpt lat="35.31665" lon="129.141074">
+          <ele>285.0</ele></trkpt>
+      <trkpt lat="35.316947" lon="129.141032">
+          <ele>278.0</ele></trkpt>
+      <trkpt lat="35.317015" lon="129.140949">
+          <ele>276.0</ele></trkpt>
+      <trkpt lat="35.317562" lon="129.140976">
+          <ele>257.0</ele></trkpt>
+      <trkpt lat="35.317869" lon="129.140661">
+          <ele>264.0</ele></trkpt>
+      <trkpt lat="35.318108" lon="129.140596">
+          <ele>265.0</ele></trkpt>
+      <trkpt lat="35.318291" lon="129.140657">
+          <ele>266.0</ele></trkpt>
+      <trkpt lat="35.318351" lon="129.140484">
+          <ele>264.0</ele></trkpt>
+      <trkpt lat="35.318713" lon="129.14035">
+          <ele>249.0</ele></trkpt>
+      <trkpt lat="35.318891" lon="129.139924">
+          <ele>224.0</ele></trkpt>
+      <trkpt lat="35.318938" lon="129.139561">
+          <ele>225.0</ele></trkpt>
+      <trkpt lat="35.319084" lon="129.139288">
+          <ele>227.0</ele></trkpt>
+      <trkpt lat="35.319692" lon="129.13905">
+          <ele>223.0</ele></trkpt>
+      <trkpt lat="35.320041" lon="129.138297">
+          <ele>206.0</ele></trkpt>
+      <trkpt lat="35.32052" lon="129.137932">
+          <ele>204.0</ele></trkpt>
+      <trkpt lat="35.320577" lon="129.137653">
+          <ele>196.0</ele></trkpt>
+      <trkpt lat="35.32105" lon="129.137299">
+          <ele>175.0</ele></trkpt>
+      <trkpt lat="35.321202" lon="129.136748">
+          <ele>159.0</ele></trkpt>
+      <trkpt lat="35.32139" lon="129.136579">
+          <ele>158.0</ele></trkpt>
+      <trkpt lat="35.32146" lon="129.136026">
+          <ele>158.0</ele></trkpt>
+      <trkpt lat="35.321344" lon="129.135685">
+          <ele>157.0</ele></trkpt>
+      <trkpt lat="35.321507" lon="129.135064">
+          <ele>158.0</ele></trkpt>
+      <trkpt lat="35.32148" lon="129.13443">
+          <ele>157.0</ele></trkpt>
+      <trkpt lat="35.32178" lon="129.133476">
+          <ele>158.0</ele></trkpt>
+      <trkpt lat="35.321878" lon="129.132689">
+          <ele>151.0</ele></trkpt>
+      <trkpt lat="35.321712" lon="129.131696">
+          <ele>155.0</ele></trkpt>
+      <trkpt lat="35.321337" lon="129.130955">
+          <ele>157.0</ele></trkpt>
+      <trkpt lat="35.321232" lon="129.130257">
+          <ele>161.0</ele></trkpt>
+      <trkpt lat="35.32083" lon="129.129948">
+          <ele>149.0</ele></trkpt>
+      <trkpt lat="35.320247" lon="129.13017">
+          <ele>148.0</ele></trkpt>
+      <trkpt lat="35.319903" lon="129.129913">
+          <ele>146.0</ele></trkpt>
+      <trkpt lat="35.319487" lon="129.129249">
+          <ele>150.0</ele></trkpt>
+      <trkpt lat="35.319231" lon="129.129034">
+          <ele>151.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Sosanbong Dangnagwibong Course (3/8)</name>
+    <trkseg>
+      <trkpt lat="35.316742" lon="129.160035">
+          <ele>244.0</ele></trkpt>
+      <trkpt lat="35.31567" lon="129.159958">
+          <ele>273.0</ele></trkpt>
+      <trkpt lat="35.315209" lon="129.159662">
+          <ele>293.0</ele></trkpt>
+      <trkpt lat="35.314344" lon="129.159283">
+          <ele>297.0</ele></trkpt>
+      <trkpt lat="35.313476" lon="129.159149">
+          <ele>305.0</ele></trkpt>
+      <trkpt lat="35.313239" lon="129.158932">
+          <ele>321.0</ele></trkpt>
+      <trkpt lat="35.312875" lon="129.158845">
+          <ele>322.0</ele></trkpt>
+      <trkpt lat="35.312681" lon="129.158603">
+          <ele>323.0</ele></trkpt>
+      <trkpt lat="35.311906" lon="129.158582">
+          <ele>331.0</ele></trkpt>
+      <trkpt lat="35.311581" lon="129.158335">
+          <ele>329.0</ele></trkpt>
+      <trkpt lat="35.311456" lon="129.158393">
+          <ele>331.0</ele></trkpt>
+      <trkpt lat="35.31087" lon="129.158009">
+          <ele>327.0</ele></trkpt>
+      <trkpt lat="35.310212" lon="129.157968">
+          <ele>345.0</ele></trkpt>
+      <trkpt lat="35.309992" lon="129.157717">
+          <ele>346.0</ele></trkpt>
+      <trkpt lat="35.309805" lon="129.157633">
+          <ele>344.0</ele></trkpt>
+      <trkpt lat="35.309478" lon="129.158016">
+          <ele>351.0</ele></trkpt>
+      <trkpt lat="35.309365" lon="129.157772">
+          <ele>352.0</ele></trkpt>
+      <trkpt lat="35.30926" lon="129.157178">
+          <ele>354.0</ele></trkpt>
+      <trkpt lat="35.309038" lon="129.156922">
+          <ele>359.0</ele></trkpt>
+      <trkpt lat="35.308848" lon="129.156495">
+          <ele>366.0</ele></trkpt>
+      <trkpt lat="35.308707" lon="129.155929">
+          <ele>369.0</ele></trkpt>
+      <trkpt lat="35.308649" lon="129.155271">
+          <ele>365.0</ele></trkpt>
+      <trkpt lat="35.308982" lon="129.15445">
+          <ele>385.0</ele></trkpt>
+      <trkpt lat="35.309239" lon="129.154112">
+          <ele>399.0</ele></trkpt>
+      <trkpt lat="35.309412" lon="129.154059">
+          <ele>402.0</ele></trkpt>
+      <trkpt lat="35.309164" lon="129.153275">
+          <ele>413.0</ele></trkpt>
+      <trkpt lat="35.308921" lon="129.152881">
+          <ele>398.0</ele></trkpt>
+      <trkpt lat="35.309243" lon="129.152897">
+          <ele>410.0</ele></trkpt>
+      <trkpt lat="35.309639" lon="129.153108">
+          <ele>423.0</ele></trkpt>
+      <trkpt lat="35.31043" lon="129.153084">
+          <ele>433.0</ele></trkpt>
+      <trkpt lat="35.310864" lon="129.152139">
+          <ele>444.0</ele></trkpt>
+      <trkpt lat="35.310915" lon="129.151499">
+          <ele>453.0</ele></trkpt>
+      <trkpt lat="35.310866" lon="129.151168">
+          <ele>459.0</ele></trkpt>
+      <trkpt lat="35.310947" lon="129.150738">
+          <ele>464.0</ele></trkpt>
+      <trkpt lat="35.311348" lon="129.150553">
+          <ele>471.0</ele></trkpt>
+      <trkpt lat="35.311477" lon="129.150367">
+          <ele>476.0</ele></trkpt>
+      <trkpt lat="35.311956" lon="129.149153">
+          <ele>511.0</ele></trkpt>
+      <trkpt lat="35.311529" lon="129.148335">
+          <ele>506.0</ele></trkpt>
+      <trkpt lat="35.3111" lon="129.148123">
+          <ele>492.0</ele></trkpt>
+      <trkpt lat="35.311282" lon="129.14769">
+          <ele>504.0</ele></trkpt>
+      <trkpt lat="35.311128" lon="129.147109">
+          <ele>503.0</ele></trkpt>
+      <trkpt lat="35.311231" lon="129.146919">
+          <ele>504.0</ele></trkpt>
+      <trkpt lat="35.311321" lon="129.146898">
+          <ele>505.0</ele></trkpt>
+      <trkpt lat="35.311673" lon="129.146972">
+          <ele>516.0</ele></trkpt>
+      <trkpt lat="35.312351" lon="129.146864">
+          <ele>524.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Sosanbong Dangnagwibong Course (4/8)</name>
+    <trkseg>
+      <trkpt lat="35.317716" lon="129.154774">
+          <ele>509.0</ele></trkpt>
+      <trkpt lat="35.317522" lon="129.154995">
+          <ele>501.0</ele></trkpt>
+      <trkpt lat="35.316958" lon="129.155241">
+          <ele>491.0</ele></trkpt>
+      <trkpt lat="35.316712" lon="129.155145">
+          <ele>502.0</ele></trkpt>
+      <trkpt lat="35.31642" lon="129.155247">
+          <ele>502.0</ele></trkpt>
+      <trkpt lat="35.316287" lon="129.155523">
+          <ele>488.0</ele></trkpt>
+      <trkpt lat="35.315757" lon="129.156116">
+          <ele>438.0</ele></trkpt>
+      <trkpt lat="35.315775" lon="129.156638">
+          <ele>413.0</ele></trkpt>
+      <trkpt lat="35.315984" lon="129.157052">
+          <ele>398.0</ele></trkpt>
+      <trkpt lat="35.31624" lon="129.157013">
+          <ele>399.0</ele></trkpt>
+      <trkpt lat="35.316227" lon="129.157379">
+          <ele>380.0</ele></trkpt>
+      <trkpt lat="35.316319" lon="129.157573">
+          <ele>366.0</ele></trkpt>
+      <trkpt lat="35.316215" lon="129.157854">
+          <ele>356.0</ele></trkpt>
+      <trkpt lat="35.316223" lon="129.158682">
+          <ele>323.0</ele></trkpt>
+      <trkpt lat="35.316113" lon="129.158837">
+          <ele>324.0</ele></trkpt>
+      <trkpt lat="35.316155" lon="129.158929">
+          <ele>318.0</ele></trkpt>
+      <trkpt lat="35.316511" lon="129.158921">
+          <ele>303.0</ele></trkpt>
+      <trkpt lat="35.316773" lon="129.159039">
+          <ele>294.0</ele></trkpt>
+      <trkpt lat="35.31656" lon="129.159622">
+          <ele>270.0</ele></trkpt>
+      <trkpt lat="35.316742" lon="129.160035">
+          <ele>244.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Sosanbong Dangnagwibong Course (5/8)</name>
+    <trkseg>
+      <trkpt lat="35.317716" lon="129.154774">
+          <ele>509.0</ele></trkpt>
+      <trkpt lat="35.31823" lon="129.155049">
+          <ele>515.0</ele></trkpt>
+      <trkpt lat="35.318503" lon="129.154957">
+          <ele>507.0</ele></trkpt>
+      <trkpt lat="35.318748" lon="129.154685">
+          <ele>508.0</ele></trkpt>
+      <trkpt lat="35.319113" lon="129.154869">
+          <ele>513.0</ele></trkpt>
+      <trkpt lat="35.319289" lon="129.154846">
+          <ele>514.0</ele></trkpt>
+      <trkpt lat="35.319514" lon="129.154669">
+          <ele>513.0</ele></trkpt>
+      <trkpt lat="35.320126" lon="129.154463">
+          <ele>517.0</ele></trkpt>
+      <trkpt lat="35.320505" lon="129.154161">
+          <ele>514.0</ele></trkpt>
+      <trkpt lat="35.321101" lon="129.153034">
+          <ele>499.0</ele></trkpt>
+      <trkpt lat="35.321179" lon="129.152995">
+          <ele>497.0</ele></trkpt>
+      <trkpt lat="35.321651" lon="129.153428">
+          <ele>481.0</ele></trkpt>
+      <trkpt lat="35.322203" lon="129.153666">
+          <ele>449.0</ele></trkpt>
+      <trkpt lat="35.322144" lon="129.153861">
+          <ele>444.0</ele></trkpt>
+      <trkpt lat="35.322506" lon="129.15411">
+          <ele>422.0</ele></trkpt>
+      <trkpt lat="35.322571" lon="129.154276">
+          <ele>414.0</ele></trkpt>
+      <trkpt lat="35.323006" lon="129.154387">
+          <ele>393.0</ele></trkpt>
+      <trkpt lat="35.322856" lon="129.154642">
+          <ele>392.0</ele></trkpt>
+      <trkpt lat="35.323346" lon="129.154816">
+          <ele>367.0</ele></trkpt>
+      <trkpt lat="35.323463" lon="129.155751">
+          <ele>342.0</ele></trkpt>
+      <trkpt lat="35.323592" lon="129.155867">
+          <ele>336.0</ele></trkpt>
+      <trkpt lat="35.32379" lon="129.156279">
+          <ele>318.0</ele></trkpt>
+      <trkpt lat="35.324392" lon="129.156868">
+          <ele>290.0</ele></trkpt>
+      <trkpt lat="35.324451" lon="129.157224">
+          <ele>282.0</ele></trkpt>
+      <trkpt lat="35.324866" lon="129.158165">
+          <ele>245.0</ele></trkpt>
+      <trkpt lat="35.325147" lon="129.15965">
+          <ele>213.0</ele></trkpt>
+      <trkpt lat="35.32509" lon="129.16016">
+          <ele>208.0</ele></trkpt>
+      <trkpt lat="35.325232" lon="129.160935">
+          <ele>204.0</ele></trkpt>
+      <trkpt lat="35.325466" lon="129.161467">
+          <ele>201.0</ele></trkpt>
+      <trkpt lat="35.325745" lon="129.161734">
+          <ele>191.0</ele></trkpt>
+      <trkpt lat="35.326281" lon="129.162656">
+          <ele>171.0</ele></trkpt>
+      <trkpt lat="35.326323" lon="129.163347">
+          <ele>167.0</ele></trkpt>
+      <trkpt lat="35.326587" lon="129.163865">
+          <ele>161.0</ele></trkpt>
+      <trkpt lat="35.326746" lon="129.164445">
+          <ele>144.0</ele></trkpt>
+      <trkpt lat="35.326724" lon="129.164657">
+          <ele>136.0</ele></trkpt>
+      <trkpt lat="35.32688" lon="129.165101">
+          <ele>120.0</ele></trkpt>
+      <trkpt lat="35.327059" lon="129.165079">
+          <ele>121.0</ele></trkpt>
+      <trkpt lat="35.327569" lon="129.164733">
+          <ele>125.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Sosanbong Dangnagwibong Course (6/8)</name>
+    <trkseg>
+      <trkpt lat="35.31782" lon="129.162587">
+          <ele>178.0</ele></trkpt>
+      <trkpt lat="35.317651" lon="129.162263">
+          <ele>182.0</ele></trkpt>
+      <trkpt lat="35.317657" lon="129.162076">
+          <ele>184.0</ele></trkpt>
+      <trkpt lat="35.31748" lon="129.161575">
+          <ele>188.0</ele></trkpt>
+      <trkpt lat="35.317403" lon="129.160875">
+          <ele>213.0</ele></trkpt>
+      <trkpt lat="35.317149" lon="129.159997">
+          <ele>246.0</ele></trkpt>
+      <trkpt lat="35.317109" lon="129.159912">
+          <ele>249.0</ele></trkpt>
+      <trkpt lat="35.316742" lon="129.160035">
+          <ele>244.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Sosanbong Dangnagwibong Course (7/8)</name>
+    <trkseg>
+      <trkpt lat="35.318095" lon="129.164146">
+          <ele>148.0</ele></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Sosanbong Dangnagwibong Course (8/8)</name>
+    <trkseg>
+      <trkpt lat="35.31777" lon="129.163316">
+          <ele>165.0</ele></trkpt>
+      <trkpt lat="35.317547" lon="129.162996">
+          <ele>174.0</ele></trkpt>
+      <trkpt lat="35.317544" lon="129.162678">
+          <ele>179.0</ele></trkpt>
+      <trkpt lat="35.31782" lon="129.162587">
+          <ele>178.0</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

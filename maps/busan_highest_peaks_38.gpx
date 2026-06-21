@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>부산 최고 봉우리 38곳 (Highest Peaks of Busan — 38)</name>
+    <desc>38 ranked Busan peak waypoints. Ranking elevations and GPX elevation values use official summit heights.</desc></metadata>
+  <wpt lat="35.28015" lon="129.050617">
+    <ele>801.0</ele>
+    <name>#01 · 금정산(고당봉) (Geumjeongsan) · 801 m</name>
+    <cmt>Supplied rank 1</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.183305" lon="129.02185">
+    <ele>641.0</ele>
+    <name>#02 · 백양산 (Paegyangsan) · 641 m</name>
+    <cmt>Supplied rank 2</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.231809" lon="129.046287">
+    <ele>640.0</ele>
+    <name>#03 · 상학봉 (Sanghanbong) · 640 m</name>
+    <cmt>Supplied rank 3</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.19346" lon="129.02563">
+    <ele>617.0</ele>
+    <name>#04 · 불태령(불웅령) (Purungnyong) · 617 m</name>
+    <cmt>Supplied rank 4</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.237282" lon="129.048033">
+    <ele>615.0</ele>
+    <name>#05 · 파리봉 (Palibong) · 615 m</name>
+    <cmt>Supplied rank 5</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.309678" lon="129.135915">
+    <ele>605.0</ele>
+    <name>#06 · 철마산 (Cholmasan) · 605 m</name>
+    <cmt>Supplied rank 6</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.307805" lon="129.210971">
+    <ele>587.0</ele>
+    <name>#07 · 달음산 (Tarumsan) · 587 m</name>
+    <cmt>Supplied rank 7</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.298382" lon="129.150227">
+    <ele>543.0</ele>
+    <name>#08 · 거문산 (Komunsan) · 543 m</name>
+    <cmt>Supplied rank 8</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.123135" lon="128.999575">
+    <ele>542.0</ele>
+    <name>#09 · 구덕산 (Kudoksan2) · 542 m</name>
+    <cmt>Supplied rank 9</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.307595" lon="129.164772">
+    <ele>511.0</ele>
+    <name>#10 · 문래봉 (Mullaebong) · 511 m</name>
+    <cmt>Supplied rank 10</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.116828" lon="128.979817">
+    <ele>497.0</ele>
+    <name>#11 · 승학산 (Sunghaksan) · 497 m</name>
+    <cmt>Supplied rank 11</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.026649" lon="128.834">
+    <ele>459.0</ele>
+    <name>#12 · 연대봉 (Yondaebong) · 459 m</name>
+    <cmt>Supplied rank 12</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.30547" lon="129.180561">
+    <ele>457.0</ele>
+    <name>#13 · 함박산 (Hambaksan) · 457 m</name>
+    <cmt>Supplied rank 13</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.24717" lon="129.148153">
+    <ele>451.0</ele>
+    <name>#14 · 무지산(운봉산) (Unbongsan) · 451 m</name>
+    <cmt>Supplied rank 14</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.201044" lon="129.170061">
+    <ele>433.0</ele>
+    <name>#15 · 구곡산 (Kugoksan2) · 433 m</name>
+    <cmt>Supplied rank 15</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.157335" lon="129.081909">
+    <ele>426.0</ele>
+    <name>#16 · 황령산 (Hwangnyongsan) · 426 m</name>
+    <cmt>Supplied rank 16</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.161433" lon="129.095258">
+    <ele>414.0</ele>
+    <name>#17 · 금련산 (Kumnyonsan) · 414 m</name>
+    <cmt>Supplied rank 17</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.307194" lon="129.189132">
+    <ele>409.0</ele>
+    <name>#18 · 천마산 (Chonmasan) · 409 m</name>
+    <cmt>Supplied rank 18</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.194362" lon="129.145007">
+    <ele>400.0</ele>
+    <name>#19 · 장산 (Changsan) · 400 m</name>
+    <cmt>Supplied rank 19</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.125405" lon="129.025675">
+    <ele>397.0</ele>
+    <name>#20 · 구봉산 (Kubongsan) · 397 m</name>
+    <cmt>Supplied rank 20</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.08254" lon="129.055173">
+    <ele>396.0</ele>
+    <name>#21 · 봉래산 (Pongnaesan) · 396 m</name>
+    <cmt>Supplied rank 21</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.269112" lon="129.206864">
+    <ele>388.0</ele>
+    <name>#22 · 일광산 (Ilgwangsan) · 388 m</name>
+    <cmt>Supplied rank 22</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.242053" lon="129.193606">
+    <ele>369.0</ele>
+    <name>#23 · 산성 (Sansong) · 369 m</name>
+    <cmt>Supplied rank 23</cmt>
+    <desc>Historic fortress mountain</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.284961" lon="129.184061">
+    <ele>352.0</ele>
+    <name>#24 · 아홉산 (Ahopsan) · 352 m</name>
+    <cmt>Supplied rank 24</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.250394" lon="129.145525">
+    <ele>340.0</ele>
+    <name>#25 · 개좌산 (Kaejwasan) · 340 m</name>
+    <cmt>Supplied rank 25</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.088908" lon="129.0137">
+    <ele>326.0</ele>
+    <name>#26 · 천마산 (Chonmasan2) · 326 m</name>
+    <cmt>Supplied rank 26</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.229828" lon="129.103538">
+    <ele>317.0</ele>
+    <name>#27 · 윤산(구월산) (Kuwolsan) · 317 m</name>
+    <cmt>Supplied rank 27</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.213436" lon="129.180303">
+    <ele>308.0</ele>
+    <name>#28 · 감딘산 (Kamdimsan) · 308 m</name>
+    <cmt>Supplied rank 28</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.139546" lon="129.037428">
+    <ele>308.0</ele>
+    <name>#29 · 수정산 (Sujongsan) · 308 m</name>
+    <cmt>Supplied rank 29</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.226467" lon="129.199953">
+    <ele>286.0</ele>
+    <name>#30 · 양달산 (Yangdalsan) · 286 m</name>
+    <cmt>Supplied rank 30</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.206914" lon="129.136656">
+    <ele>273.0</ele>
+    <name>#31 · 주봉 (Jubong) · 273 m</name>
+    <cmt>Supplied rank 31</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.242551" lon="129.129603">
+    <ele>273.0</ele>
+    <name>#32 · 무명봉 (Peak 273 m) · 273 m</name>
+    <cmt>Supplied rank 32</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.00442" lon="128.83421">
+    <ele>264.0</ele>
+    <name>#33 · 국수봉 (Kuksubong) · 264 m</name>
+    <cmt>Supplied rank 33</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.18029" lon="129.096019">
+    <ele>255.0</ele>
+    <name>#34 · 배산 (Baesan) · 255 m</name>
+    <cmt>Supplied rank 34</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.178965" lon="129.155694">
+    <ele>237.0</ele>
+    <name>#35 · 이산봉 (Peak 238 m) · 237 m</name>
+    <cmt>Supplied rank 35</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.117429" lon="129.121886">
+    <ele>223.0</ele>
+    <name>#36 · 장산봉 (Changsanbong) · 223 m</name>
+    <cmt>Supplied rank 36</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.183408" lon="129.186667">
+    <ele>172.0</ele>
+    <name>#37 · 부흥봉 (Puhungbong) · 172 m</name>
+    <cmt>Supplied rank 37</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="35.169212" lon="129.149462">
+    <ele>168.0</ele>
+    <name>#38 · 무명봉 (Peak 169 m) · 168 m</name>
+    <cmt>Supplied rank 38</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+</gpx>
