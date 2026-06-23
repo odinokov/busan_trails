@@ -452,20 +452,36 @@ function drawProfile() {
   const { xs, ys, segStart, total, dist, eMin, eMax, name, smoothSegs } = data;
   const range = (eMax - eMin) || 1;
   const py = e => H - pad - ((e - eMin) / range) * (H - 2 * pad);
-  let gain, loss, d = '';
+  let gain, loss, fill_d = '', stroke_d = '';
   if (smoothOn && smoothSegs.length) {
     gain = data.smoothGain; loss = data.smoothLoss;
-    for (const sg of smoothSegs)
-      for (let i = 0; i < sg.gx.length; i++)
-        d += (i ? ' L ' : ' M ') + (sg.gx[i] / total * W).toFixed(1) + ' ' + py(sg.gz[i]).toFixed(1);
+    let sFirst = true;
+    for (const sg of smoothSegs) {
+      let x0, x1;
+      for (let i = 0; i < sg.gx.length; i++) {
+        const sx = (sg.gx[i] / total * W).toFixed(1), sy = py(sg.gz[i]).toFixed(1);
+        fill_d += (i ? ' L ' : ' M ') + sx + ' ' + sy;
+        stroke_d += (sFirst ? ' M ' : ' L ') + sx + ' ' + sy;
+        if (i === 0) { x0 = sx; sFirst = false; }
+        x1 = sx;
+      }
+      if (x0 !== undefined) fill_d += ` L ${x1} ${H} L ${x0} ${H} Z `;
+    }
   } else {
     gain = data.rawGain; loss = data.rawLoss;
-    let pen = false;
+    let pen = false, rx0 = null, prevX = null;
     for (let i = 0; i < ys.length; i++) {
-      if (ys[i] == null) { pen = false; continue; }
-      d += (pen && !segStart[i] ? ' L ' : ' M ') + (xs[i] / total * W).toFixed(1) + ' ' + py(ys[i]).toFixed(1);
-      pen = true;
+      if (ys[i] == null || (segStart[i] && pen)) {
+        if (pen) { fill_d += ` L ${prevX} ${H} L ${rx0} ${H} Z `; pen = false; }
+        if (ys[i] == null) continue;
+      }
+      const cx = (xs[i] / total * W).toFixed(1), cy = py(ys[i]).toFixed(1);
+      fill_d += pen ? ` L ${cx} ${cy}` : ` M ${cx} ${cy}`;
+      stroke_d += (pen || rx0 !== null) ? ` L ${cx} ${cy}` : ` M ${cx} ${cy}`;
+      if (!pen) rx0 = cx;
+      prevX = cx; pen = true;
     }
+    if (pen) fill_d += ` L ${prevX} ${H} L ${rx0} ${H} Z`;
   }
   const fmt = x => Math.round(x).toLocaleString();
   profhead.innerHTML =
@@ -473,8 +489,8 @@ function drawProfile() {
     ` · min ${fmt(eMin)} / max ${fmt(eMax)} m<span id="probe"></span>`;
   profsvg.setAttribute('viewBox', `0 0 ${W} ${H}`);
   profsvg.innerHTML =
-    `<path d="${d} L ${W} ${H} L 0 ${H} Z" fill="#1f6feb22" stroke="none"/>` +
-    `<path d="${d}" fill="none" stroke="#1f6feb" stroke-width="1.2"/>` +
+    `<path d="${fill_d}" fill="#1f6feb22" stroke="none"/>` +
+    `<path d="${stroke_d}" fill="none" stroke="#1f6feb" stroke-width="1.2"/>` +
     `<line id="cursor" x1="0" y1="0" x2="0" y2="${H}" stroke="#e8590c" stroke-width="1" style="display:none"/>` +
     `<line id="pinline" x1="0" y1="0" x2="0" y2="${H}" stroke="#c92a2a" stroke-width="1.2" stroke-dasharray="3 2" style="display:none"/>`;
   data.cursor = profsvg.querySelector('#cursor');
