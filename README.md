@@ -6,7 +6,7 @@ GPX tracks and waypoints for hiking around **Busan, South Korea**:
 
 - **154 peak-track files** (e.g. `cheonmasan_5213020083_01.gpx`) covering the city's named summits.
 - **21 Galmaetgil coastal-trail sections** (`galmaetgil_*.gpx`) forming the walking route around Busan.
-- **2 waypoint layers** containing the 38 highest peaks and 14 campsites.
+- **2 waypoint layers** containing the 38 highest peaks and 13 campsites.
 
 A peak may have several route variants, each stored as a separate `<trk>`, so the map contains **837 items** in total.
 

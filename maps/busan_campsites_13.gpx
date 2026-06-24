@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>부산 캠핑장 14곳 (Busan Campsites — 14)</name>
-    <desc>14 Busan campsite waypoints with Korean and English names, addresses, and phone numbers. GPX elevation values are NASA/METI ASTER GDEM V3 terrain elevations.</desc></metadata>
+    <name>부산 캠핑장 13곳 (Busan Campsites — 13)</name>
+    <desc>13 Busan campsite waypoints with Korean and English names, addresses, and phone numbers. GPX elevation values are NASA/METI ASTER GDEM V3 terrain elevations.</desc></metadata>
   <wpt lat="35.028141" lon="128.821018">
     <ele>55.0</ele>
     <name>가덕카라글램핑 (Gadeok Kara Glamping)</name>
     <cmt>부산광역시 강서구 가덕해안로821번길 90-84 (천성동) · 051-941-8460</cmt>
-    <desc>Address: 부산광역시 강서구 가덕해안로821번길 90-84 (천성동); Phone: 051-941-8460; ASTER GDEM V3 terrain elevation stored in ele.</desc>
+    <desc>Address: 부산광역시 강서구 가덕해안로821번길 90-84 (천성동); Phone: 051-941-8460.</desc>
     <sym>Campground</sym>
     <type>Campsite</type>
   </wpt>
@@ -15,15 +15,7 @@
     <ele>9.0</ele>
     <name>바다가 보이는 부산항 힐링 야영장 (Busan Port Healing Campground with Sea View)</name>
     <cmt>부산광역시 동구 초량동 1185-1 · 051-400-1205</cmt>
-    <desc>Address: 부산광역시 동구 초량동 1185-1; Phone: 051-400-1205; ASTER GDEM V3 terrain elevation stored in ele.</desc>
-    <sym>Campground</sym>
-    <type>Campsite</type>
-  </wpt>
-  <wpt lat="35.15347" lon="129.114079">
-    <ele>10.0</ele>
-    <name>까사프리모 인 광안 (Casa Primo in Gwangan)</name>
-    <cmt>부산광역시 수영구 수영로540번길 36 2층 (광안동)</cmt>
-    <desc>Address: 부산광역시 수영구 수영로540번길 36 2층 (광안동); ASTER GDEM V3 terrain elevation stored in ele.</desc>
+    <desc>Address: 부산광역시 동구 초량동 1185-1; Phone: 051-400-1205.</desc>
     <sym>Campground</sym>
     <type>Campsite</type>
   </wpt>
@@ -31,7 +23,7 @@
     <ele>0.0</ele>
     <name>영도 마리노 오토캠핑장 (Yeongdo Marino Auto Campground)</name>
     <cmt>부산광역시 영도구 해양로 13-16 영도마리노오토캠핑장 (청학동) · 051-419-5662</cmt>
-    <desc>Address: 부산광역시 영도구 해양로 13-16 영도마리노오토캠핑장 (청학동); Phone: 051-419-5662; ASTER GDEM V3 terrain elevation stored in ele.</desc>
+    <desc>Address: 부산광역시 영도구 해양로 13-16 영도마리노오토캠핑장 (청학동); Phone: 051-419-5662.</desc>
     <sym>Campground</sym>
     <type>Campsite</type>
   </wpt>
@@ -39,7 +31,7 @@
     <ele>57.0</ele>
     <name>만석꾼캠핑장 (Manseokkkun Campground)</name>
     <cmt>부산광역시 기장군 장안읍 월내리 368-1</cmt>
-    <desc>Address: 부산광역시 기장군 장안읍 월내리 368-1; ASTER GDEM V3 terrain elevation stored in ele.</desc>
+    <desc>Address: 부산광역시 기장군 장안읍 월내리 368-1.</desc>
     <sym>Campground</sym>
     <type>Campsite</type>
   </wpt>
@@ -47,7 +39,7 @@
     <ele>14.0</ele>
     <name>부산카라반파크 (Busan Caravan Park)</name>
     <cmt>부산광역시 기장군 일광면 일광로 763 · 051-727-2111</cmt>
-    <desc>Address: 부산광역시 기장군 일광면 일광로 763; Phone: 051-727-2111; ASTER GDEM V3 terrain elevation stored in ele.</desc>
+    <desc>Address: 부산광역시 기장군 일광면 일광로 763; Phone: 051-727-2111.</desc>
     <sym>Campground</sym>
     <type>Campsite</type>
   </wpt>
@@ -55,7 +47,7 @@
     <ele>4.0</ele>
     <name>지오클럽 (Gio Club)</name>
     <cmt>부산광역시 기장군 일광읍 기장해안로 1272</cmt>
-    <desc>Address: 부산광역시 기장군 일광읍 기장해안로 1272; ASTER GDEM V3 terrain elevation stored in ele.</desc>
+    <desc>Address: 부산광역시 기장군 일광읍 기장해안로 1272.</desc>
     <sym>Campground</sym>
     <type>Campsite</type>
   </wpt>
@@ -63,7 +55,7 @@
     <ele>11.0</ele>
     <name>제이스글램핑 (Jace Glamping)</name>
     <cmt>부산광역시 기장군 일광면 이천8길 132-20 · 051-714-0838</cmt>
-    <desc>Address: 부산광역시 기장군 일광면 이천8길 132-20; Phone: 051-714-0838; ASTER GDEM V3 terrain elevation stored in ele.</desc>
+    <desc>Address: 부산광역시 기장군 일광면 이천8길 132-20; Phone: 051-714-0838.</desc>
     <sym>Campground</sym>
     <type>Campsite</type>
   </wpt>
@@ -71,7 +63,7 @@
     <ele>13.0</ele>
     <name>더무빙카라반캠핑 (The Moving Caravan Camping)</name>
     <cmt>부산광역시 기장군 장안읍 해맞이로 290 · 1577-8446</cmt>
-    <desc>Address: 부산광역시 기장군 장안읍 해맞이로 290; Phone: 1577-8446; ASTER GDEM V3 terrain elevation stored in ele.</desc>
+    <desc>Address: 부산광역시 기장군 장안읍 해맞이로 290; Phone: 1577-8446.</desc>
     <sym>Campground</sym>
     <type>Campsite</type>
   </wpt>
@@ -79,7 +71,7 @@
     <ele>107.0</ele>
     <name>초원 숲속 야영장 (Chowon Forest Campground)</name>
     <cmt>부산광역시 기장군 정관읍 병산1길 18 (병산골정원) · 051-727-3067</cmt>
-    <desc>Address: 부산광역시 기장군 정관읍 병산1길 18 (병산골정원); Phone: 051-727-3067; ASTER GDEM V3 terrain elevation stored in ele.</desc>
+    <desc>Address: 부산광역시 기장군 정관읍 병산1길 18 (병산골정원); Phone: 051-727-3067.</desc>
     <sym>Campground</sym>
     <type>Campsite</type>
   </wpt>
@@ -87,7 +79,7 @@
     <ele>29.0</ele>
     <name>장안캠프 (Jangan Camp)</name>
     <cmt>부산광역시 기장군 장안읍 장안로 18 · 070-4001-7788</cmt>
-    <desc>Address: 부산광역시 기장군 장안읍 장안로 18; Phone: 070-4001-7788; ASTER GDEM V3 terrain elevation stored in ele.</desc>
+    <desc>Address: 부산광역시 기장군 장안읍 장안로 18; Phone: 070-4001-7788.</desc>
     <sym>Campground</sym>
     <type>Campsite</type>
   </wpt>
@@ -95,7 +87,7 @@
     <ele>10.0</ele>
     <name>삼락생태공원 오토캠핑장 (Samnak Ecological Park Auto Campground)</name>
     <cmt>부산광역시 사상구 삼락동 29-59 · 051-313-6015</cmt>
-    <desc>Address: 부산광역시 사상구 삼락동 29-59; Phone: 051-313-6015; ASTER GDEM V3 terrain elevation stored in ele.</desc>
+    <desc>Address: 부산광역시 사상구 삼락동 29-59; Phone: 051-313-6015.</desc>
     <sym>Campground</sym>
     <type>Campsite</type>
   </wpt>
@@ -103,7 +95,7 @@
     <ele>17.0</ele>
     <name>대저생태공원캠핑장 (Daejeo Ecological Park Campground)</name>
     <cmt>부산광역시 강서구 대저로 3 대저캠핑장 (대저1동) · 051-310-6034</cmt>
-    <desc>Address: 부산광역시 강서구 대저로 3 대저캠핑장 (대저1동); Phone: 051-310-6034; ASTER GDEM V3 terrain elevation stored in ele.</desc>
+    <desc>Address: 부산광역시 강서구 대저로 3 대저캠핑장 (대저1동); Phone: 051-310-6034.</desc>
     <sym>Campground</sym>
     <type>Campsite</type>
   </wpt>
@@ -111,7 +103,7 @@
     <ele>4.0</ele>
     <name>화명 오토캠핑장 (Hwamyeong Auto Campground)</name>
     <cmt>부산광역시 북구 강변대로 1629 (덕천동) · 051-337-2262</cmt>
-    <desc>Address: 부산광역시 북구 강변대로 1629 (덕천동); Phone: 051-337-2262; ASTER GDEM V3 terrain elevation stored in ele.</desc>
+    <desc>Address: 부산광역시 북구 강변대로 1629 (덕천동); Phone: 051-337-2262.</desc>
     <sym>Campground</sym>
     <type>Campsite</type>
   </wpt>
